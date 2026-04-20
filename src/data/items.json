@@ -5,13 +5,20 @@
 		"title": "Homemade syrnyky with sour cream",
 		"description": "Golden cottage cheese pancakes served with sour cream.",
 		"price": 140,
-		"labels": ["200g"],
+		"labels": [
+			"200g"
+		],
 		"fullDescription": "Golden cottage cheese pancakes served with sour cream. Ingredients: Golden cottage cheese pancakes served with sour cream..",
-		"suggested": ["espresso", "americano"],
+		"suggested": [
+			"espresso",
+			"americano"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 420,
 		"portion": "200g",
-		"allergens": ["cappuccino"]
+		"allergens": [
+			"cappuccino"
+		]
 	},
 	{
 		"slug": "cappuccino",
@@ -19,12 +26,38 @@
 		"title": "Cappuccino",
 		"description": "Espresso with steamed milk and foam.",
 		"price": 50,
-		"labels": ["350ml"],
+		"labels": [
+			"350ml"
+		],
 		"fullDescription": "Espresso with steamed milk and foam. Ingredients: Espresso with steamed milk and foam..",
-		"suggested": ["homemade-syrnyky-with-sour-cream"],
+		"suggested": [
+			"homemade-syrnyky-with-sour-cream"
+		],
 		"cookTimeMinutes": 5,
 		"caloriesKcal": 110,
 		"portion": "350ml",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "eggs",
+		"categorySlug": "breakfasts",
+		"title": "Eggs",
+		"description": "Fresh eggs prepared to order.",
+		"price": 100,
+		"labels": [
+			"2 pieces"
+		],
+		"fullDescription": "Fresh eggs prepared to order. Ingredients: Fresh eggs prepared to order.",
+		"suggested": [
+			"homemade-syrnyky-with-sour-cream"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 150,
+		"portion": "2 pieces",
+		"allergens": [
+			"eggs"
+		]
 	}
 ]

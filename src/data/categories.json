@@ -10,5 +10,29 @@
 		"description": "Hot and cold coffee drinks.",
 		"section": "drinks",
 		"slug": "coffee"
+	},
+	{
+		"name": "Cold appetizers",
+		"description": "Chilled starters to begin the meal.",
+		"section": "food",
+		"slug": "cold-appetizers"
+	},
+	{
+		"name": "Salads",
+		"description": "Fresh and hearty salads.",
+		"section": "food",
+		"slug": "salads"
+	},
+	{
+		"name": "Hot appetizers",
+		"description": "Warm starters served before the main course.",
+		"section": "food",
+		"slug": "hot-appetizers"
+	},
+	{
+		"name": "First courses",
+		"description": "Soups and broths.",
+		"section": "food",
+		"slug": "first-courses"
 	}
 ]

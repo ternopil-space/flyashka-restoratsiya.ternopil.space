@@ -59,5 +59,556 @@
 		"allergens": [
 			"eggs"
 		]
+	},
+	{
+		"slug": "salmon-tartare-with-avocado-mango-sauce",
+		"categorySlug": "cold-appetizers",
+		"title": "Salmon tartare with avocado and mango sauce",
+		"description": "Fresh salmon tartare served with avocado and delicate mango sauce.",
+		"price": 156,
+		"labels": [
+			"190g"
+		],
+		"fullDescription": "Fresh salmon tartare with ripe avocado and a bright mango sauce. A refined cold starter with a balance of fish, fruit and creamy texture.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 280,
+		"portion": "190g",
+		"allergens": [
+			"fish"
+		]
+	},
+	{
+		"slug": "forshmak-with-toasts",
+		"categorySlug": "cold-appetizers",
+		"title": "Forshmak with toasts",
+		"description": "Traditional herring forshmak served with crispy toasts.",
+		"price": 64,
+		"labels": [
+			"175g"
+		],
+		"fullDescription": "Classic herring forshmak with butter and onion, served with crispy toasts. A rich and savoury cold appetizer.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 310,
+		"portion": "175g",
+		"allergens": [
+			"fish",
+			"gluten"
+		]
+	},
+	{
+		"slug": "spread-assortment-with-toasts",
+		"categorySlug": "cold-appetizers",
+		"title": "Spread assortment with toasts",
+		"description": "Selection of homemade spreads served with toasts.",
+		"price": 89,
+		"labels": [
+			"200g"
+		],
+		"fullDescription": "A trio of homemade spreads served with crispy toasts — perfect to share as a light starter.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 340,
+		"portion": "200g",
+		"allergens": [
+			"gluten",
+			"milk"
+		]
+	},
+	{
+		"slug": "fish-platter-with-caviar-and-butter",
+		"categorySlug": "cold-appetizers",
+		"title": "Fish platter with caviar and butter",
+		"description": "Assortment of fish with caviar and butter.",
+		"price": 380,
+		"labels": [
+			"230g"
+		],
+		"fullDescription": "Elegant platter of cured and smoked fish with caviar and butter — a festive cold appetizer.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 420,
+		"portion": "230g",
+		"allergens": [
+			"fish",
+			"milk"
+		]
+	},
+	{
+		"slug": "herring-with-aromatic-potatoes",
+		"categorySlug": "cold-appetizers",
+		"title": "Herring with aromatic potatoes",
+		"description": "Salted herring served with fragrant boiled potatoes.",
+		"price": 69,
+		"labels": [
+			"240g"
+		],
+		"fullDescription": "Salted herring served with warm aromatic potatoes and onion — a hearty traditional starter.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 360,
+		"portion": "240g",
+		"allergens": [
+			"fish"
+		]
+	},
+	{
+		"slug": "cheese-assortment",
+		"categorySlug": "cold-appetizers",
+		"title": "Cheese assortment",
+		"description": "Camembert, blue, parmesan and emmental with honey and nuts.",
+		"price": 162,
+		"labels": [
+			"200g"
+		],
+		"fullDescription": "Selection of camembert, blue cheese, parmesan and emmental served with honey and nuts.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 520,
+		"portion": "200g",
+		"allergens": [
+			"milk",
+			"nuts"
+		]
+	},
+	{
+		"slug": "pate-with-cherry-confiture",
+		"categorySlug": "cold-appetizers",
+		"title": "Pâté with cherry confiture",
+		"description": "Delicate homemade pâté served with cherry confiture.",
+		"price": 86,
+		"labels": [
+			"130/30g"
+		],
+		"fullDescription": "Creamy homemade pâté paired with a sweet cherry confiture and toasted bread.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 380,
+		"portion": "130/30g",
+		"allergens": [
+			"milk",
+			"gluten"
+		]
+	},
+	{
+		"slug": "marinated-white-mushrooms-with-onion",
+		"categorySlug": "cold-appetizers",
+		"title": "Marinated white mushrooms with onion",
+		"description": "Marinated white mushrooms served with onion.",
+		"price": 98,
+		"labels": [
+			"200g"
+		],
+		"fullDescription": "Homemade marinated white mushrooms served with fresh onion — a classic cold snack.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 150,
+		"portion": "200g",
+		"allergens": []
+	},
+	{
+		"slug": "homemade-meat-platter",
+		"categorySlug": "cold-appetizers",
+		"title": "Homemade meat platter",
+		"description": "Chicken roulade, buzhenyna and baked pork neck.",
+		"price": 185,
+		"labels": [
+			"300/100g"
+		],
+		"fullDescription": "Assortment of homemade meats: chicken roulade, buzhenyna and baked pork neck, served with accompaniments.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 560,
+		"portion": "300/100g",
+		"allergens": []
+	},
+	{
+		"slug": "meat-platter-to-beer",
+		"categorySlug": "cold-appetizers",
+		"title": "Meat platter to beer",
+		"description": "Salami, kabanosy, basturma, prosciutto and olives.",
+		"price": 175,
+		"labels": [
+			"200g"
+		],
+		"fullDescription": "A hearty beer-friendly meat platter with salami, kabanosy, basturma, prosciutto and olives.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 580,
+		"portion": "200g",
+		"allergens": []
+	},
+	{
+		"slug": "salo-assortment-with-garlic",
+		"categorySlug": "cold-appetizers",
+		"title": "Salo assortment with garlic",
+		"description": "Selection of salo served with garlic.",
+		"price": 82,
+		"labels": [
+			"150/50g"
+		],
+		"fullDescription": "Traditional Ukrainian salo selection served with fresh garlic — a classic snack.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 480,
+		"portion": "150/50g",
+		"allergens": []
+	},
+	{
+		"slug": "bread-basket",
+		"categorySlug": "cold-appetizers",
+		"title": "Bread basket",
+		"description": "Homemade bread selection.",
+		"price": 30,
+		"labels": [
+			"200g"
+		],
+		"fullDescription": "Basket of freshly baked homemade bread — perfect companion to any appetizer.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 260,
+		"portion": "200g",
+		"allergens": [
+			"gluten"
+		]
+	},
+	{
+		"slug": "salad-with-braised-beetroot-and-lightly-salted-salmon",
+		"categorySlug": "salads",
+		"title": "Salad with braised beetroot and lightly salted salmon",
+		"description": "Lettuce, mix, braised beetroot, lightly salted salmon, avocado, egg, cherry tomatoes, blue cheese sauce.",
+		"price": 148,
+		"labels": [
+			"340g"
+		],
+		"fullDescription": "Fresh salad with slow-braised beetroot and lightly salted salmon, combined with lettuce mix, avocado, egg and cherry tomatoes, dressed with blue cheese sauce.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 420,
+		"portion": "340g",
+		"allergens": [
+			"fish",
+			"milk",
+			"eggs"
+		]
+	},
+	{
+		"slug": "cocktail-salad-with-mozzarella",
+		"categorySlug": "salads",
+		"title": "Cocktail salad with mozzarella",
+		"description": "Mozzarella, tomatoes, arugula, greens, basil oil.",
+		"price": 78,
+		"labels": [
+			"260g"
+		],
+		"fullDescription": "Light cocktail salad of mozzarella, tomatoes and arugula finished with basil oil.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 310,
+		"portion": "260g",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "green-salad-with-guacamole",
+		"categorySlug": "salads",
+		"title": "Green salad with guacamole",
+		"description": "Cherry tomatoes, mix salad, cucumber, Bulgarian pepper, sesame, sunflower seeds, pumpkin seeds, guacamole sauce.",
+		"price": 89,
+		"labels": [
+			"250g"
+		],
+		"fullDescription": "Refreshing green salad with cherry tomatoes, cucumber, pepper and seed mix, dressed with homemade guacamole sauce.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 280,
+		"portion": "250g",
+		"allergens": [
+			"sesame"
+		]
+	},
+	{
+		"slug": "vegetable-mix-salad-with-blue-cheese",
+		"categorySlug": "salads",
+		"title": "Vegetable mix salad with blue cheese",
+		"description": "Lettuce mix, cherry tomatoes, mushrooms, avocado, Bulgarian pepper, sauce.",
+		"price": 138,
+		"labels": [
+			"320g"
+		],
+		"fullDescription": "Vegetable medley with lettuce mix, cherry tomatoes, mushrooms, avocado and pepper, finished with blue cheese dressing.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 360,
+		"portion": "320g",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "salad-with-spicy-chicken",
+		"categorySlug": "salads",
+		"title": "Salad with spicy chicken",
+		"description": "Chicken fillet, cherry tomatoes, mix salad, apple, almond flakes, spicy sauce.",
+		"price": 98,
+		"labels": [
+			"270g"
+		],
+		"fullDescription": "Warm salad with juicy chicken fillet, cherry tomatoes, apple, lettuce mix and almond flakes, dressed with a spicy sauce.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 420,
+		"portion": "270g",
+		"allergens": [
+			"nuts"
+		]
+	},
+	{
+		"slug": "warm-salad-with-veal-and-cheese-fries",
+		"categorySlug": "salads",
+		"title": "Warm salad with veal and cheese fries",
+		"description": "Veal, Brussels sprouts, cherry tomatoes, mix salad, sesame, sauce.",
+		"price": 168,
+		"labels": [
+			"300g"
+		],
+		"fullDescription": "Warm salad with tender veal, Brussels sprouts, cherry tomatoes and mix salad, finished with sesame and a savoury sauce.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 520,
+		"portion": "300g",
+		"allergens": [
+			"sesame"
+		]
+	},
+	{
+		"slug": "shrimp-salad",
+		"categorySlug": "salads",
+		"title": "Shrimp salad",
+		"description": "Shrimp, cucumber, cherry tomatoes, mix salad, sesame, nuts, sauce.",
+		"price": 146,
+		"labels": [
+			"250g"
+		],
+		"fullDescription": "Light shrimp salad with cucumber, cherry tomatoes, lettuce mix, sesame and nuts.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 340,
+		"portion": "250g",
+		"allergens": [
+			"shellfish",
+			"nuts",
+			"sesame"
+		]
+	},
+	{
+		"slug": "chicken-wings-in-honey-glaze",
+		"categorySlug": "hot-appetizers",
+		"title": "Chicken wings in honey glaze",
+		"description": "Tender chicken wings served in a sweet honey glaze.",
+		"price": 45,
+		"labels": [
+			"100/50g",
+			"by weight"
+		],
+		"fullDescription": "Juicy oven-baked chicken wings glazed with honey — sweet, sticky and perfect for sharing.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 320,
+		"portion": "100/50g",
+		"allergens": []
+	},
+	{
+		"slug": "black-sea-red-mullet-with-tartar-sauce",
+		"categorySlug": "hot-appetizers",
+		"title": "Black Sea red mullet with tartar sauce",
+		"description": "Fried Black Sea red mullet served with tartar sauce.",
+		"price": 85,
+		"labels": [
+			"100g",
+			"by weight"
+		],
+		"fullDescription": "Crispy fried Black Sea red mullet served with homemade tartar sauce.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 340,
+		"portion": "100g",
+		"allergens": [
+			"fish",
+			"eggs"
+		]
+	},
+	{
+		"slug": "cheese-sticks-with-cranberry-sauce",
+		"categorySlug": "hot-appetizers",
+		"title": "Cheese sticks with cranberry sauce",
+		"description": "Crispy fried cheese sticks served with cranberry sauce.",
+		"price": 115,
+		"labels": [
+			"220/50g"
+		],
+		"fullDescription": "Golden crispy cheese sticks served with tangy cranberry sauce.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 420,
+		"portion": "220/50g",
+		"allergens": [
+			"milk",
+			"gluten"
+		]
+	},
+	{
+		"slug": "stewed-white-mushrooms-in-sour-cream",
+		"categorySlug": "hot-appetizers",
+		"title": "Stewed white mushrooms in sour cream",
+		"description": "White mushrooms slow-stewed in sour cream.",
+		"price": 148,
+		"labels": [
+			"220g"
+		],
+		"fullDescription": "White mushrooms slow-stewed in rich sour cream with onion and herbs — a warming classic.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 360,
+		"portion": "220g",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "zurek",
+		"categorySlug": "first-courses",
+		"title": "Żurek",
+		"description": "Traditional Polish sour rye soup.",
+		"price": 84,
+		"labels": [],
+		"fullDescription": "Traditional Polish sour rye soup with sausage and egg — warming and tangy.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 380,
+		"portion": "300ml",
+		"allergens": [
+			"gluten",
+			"eggs"
+		]
+	},
+	{
+		"slug": "bograch",
+		"categorySlug": "first-courses",
+		"title": "Bograch",
+		"description": "Rich Transcarpathian goulash-style soup.",
+		"price": 84,
+		"labels": [],
+		"fullDescription": "Hearty Transcarpathian bograch with beef, paprika and vegetables — a bold goulash-style soup.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 25,
+		"caloriesKcal": 420,
+		"portion": "300ml",
+		"allergens": []
+	},
+	{
+		"slug": "halaszle-with-catfish",
+		"categorySlug": "first-courses",
+		"title": "Halászlé with catfish",
+		"description": "Hungarian fisherman’s soup with catfish.",
+		"price": 124,
+		"labels": [],
+		"fullDescription": "Traditional Hungarian fisherman’s soup made with catfish, paprika and onion.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 25,
+		"caloriesKcal": 340,
+		"portion": "300ml",
+		"allergens": [
+			"fish"
+		]
+	},
+	{
+		"slug": "quail-broth",
+		"categorySlug": "first-courses",
+		"title": "Quail broth",
+		"description": "Clear broth with quail.",
+		"price": 86,
+		"labels": [],
+		"fullDescription": "Clear, aromatic quail broth served with noodles and fresh herbs.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 220,
+		"portion": "300ml",
+		"allergens": [
+			"gluten",
+			"eggs"
+		]
+	},
+	{
+		"slug": "cream-soup-with-porcini-mushrooms",
+		"categorySlug": "first-courses",
+		"title": "Cream soup with porcini mushrooms",
+		"description": "Creamy soup with porcini mushrooms.",
+		"price": 129,
+		"labels": [],
+		"fullDescription": "Velvety cream soup made with porcini mushrooms and finished with fresh herbs.",
+		"suggested": [
+			"bread-basket"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 360,
+		"portion": "300ml",
+		"allergens": [
+			"milk"
+		]
 	}
 ]

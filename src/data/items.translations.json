@@ -4,114 +4,26 @@
 		"document": "item",
 		"data": {
 			"title": {
-				"ua": "Домашні сирники зі сметаною",
-				"bg": "Домашни сирники със сметана",
-				"hr": "Domaći syrnyky sa kiselim vrhnjem",
-				"cs": "Domácí syrniky se zakysanou smetanou",
-				"da": "Hjemmelavede syrnyky med cremefraiche",
-				"nl": "Huisgemaakte syrnyky met zure room",
 				"en": "Homemade syrnyky with sour cream",
-				"et": "Kodused syrnykyd hapukoorega",
-				"fi": "Kotitekoiset syrnykyt smetanalla",
-				"fr": "Syrnyky maison à la crème aigre",
-				"de": "Hausgemachte Syrnyky mit Sauerrahm",
-				"el": "Σπιτικά syrnyky με ξινή κρέμα",
-				"hu": "Házi syrnyky tejföllel",
-				"ga": "Syrnyky baile le huachtar géar",
-				"it": "Syrnyky fatti in casa con panna acida",
-				"lv": "Mājās gatavoti syrnyki ar skābo krējumu",
-				"lt": "Naminiai syrnykai su grietine",
-				"mt": "Syrnyky magħmula d-dar bil-krema qarsa",
-				"pl": "Domowe syrniki ze śmietaną",
-				"pt": "Syrnyky caseiros com nata azeda",
-				"ro": "Syrnyky de casă cu smântână",
-				"sk": "Domáce syrniky s kyslou smotanou",
-				"sl": "Domači syrnyki s kislo smetano",
-				"es": "Syrnyky caseros con crema agria",
-				"sv": "Hemlagade syrnyky med gräddfil"
+				"ua": "Домашні сирники зі сметаною",
+				"de": "Hausgemachte Syrnyky mit Sauerrahm"
 			},
 			"description": {
-				"ua": "Рум’яні сирники, подані зі сметаною.",
-				"bg": "Златисти сирники, поднесени със сметана.",
-				"hr": "Zlatni syrnyky posluženi s kiselim vrhnjem.",
-				"cs": "Zlatavé syrniky podávané se zakysanou smetanou.",
-				"da": "Gyldne syrnyky serveret med cremefraiche.",
-				"nl": "Goudbruine syrnyky geserveerd met zure room.",
 				"en": "Golden cottage cheese pancakes served with sour cream.",
-				"et": "Kuldsed kohupiimapannkoogid hapukoorega.",
-				"fi": "Kultaiset rahkaletut tarjoiltuna smetanan kanssa.",
-				"fr": "Galettes dorées au fromage frais servies avec de la crème aigre.",
-				"de": "Goldene Quarkküchlein mit Sauerrahm serviert.",
-				"el": "Χρυσαφένια τηγανίτες τυριού cottage με ξινή κρέμα.",
-				"hu": "Aranyszínű túrós lepénykék tejföllel tálalva.",
-				"ga": "Syrnyky órga déanta le cáis teachín, le huachtar géar.",
-				"it": "Dorati pancake di ricotta serviti con panna acida.",
-				"lv": "Zeltaini biezpiena plācenīši, pasniegti ar skābo krējumu.",
-				"lt": "Auksiniai varškėčiai, patiekiami su grietine.",
-				"mt": "Syrnyky dehbin servuti bil-krema qarsa.",
-				"pl": "Złociste placuszki twarogowe podawane ze śmietaną.",
-				"pt": "Panquecas douradas de queijo fresco servidas com nata azeda.",
-				"ro": "Papanași de brânză dulce rumeniți, serviți cu smântână.",
-				"sk": "Zlatisté syrniky podávané s kyslou smotanou.",
-				"sl": "Zlatorumeni syrnyki, postreženi s kislo smetano.",
-				"es": "Tortitas doradas de requesón servidas con crema agria.",
-				"sv": "Gyllene ostplättar serverade med gräddfil."
+				"ua": "Рум’яні сирники, подані зі сметаною.",
+				"de": "Goldene Quarkküchlein mit Sauerrahm serviert."
 			},
 			"labels": [
 				{
-					"ua": "200 г",
-					"bg": "200 g",
-					"hr": "200 g",
-					"cs": "200 g",
-					"da": "200 g",
-					"nl": "200 g",
 					"en": "200 g",
-					"et": "200 g",
-					"fi": "200 g",
-					"fr": "200 g",
-					"de": "200 g",
-					"el": "200 g",
-					"hu": "200 g",
-					"ga": "200 g",
-					"it": "200 g",
-					"lv": "200 g",
-					"lt": "200 g",
-					"mt": "200 g",
-					"pl": "200 g",
-					"pt": "200 g",
-					"ro": "200 g",
-					"sk": "200 g",
-					"sl": "200 g",
-					"es": "200 g",
-					"sv": "200 g"
+					"ua": "200 г",
+					"de": "200 g"
 				}
 			],
 			"fullDescription": {
-				"ua": "Ніжні домашні сирники з приємною сирною текстурою, обсмажені до золотистої скоринки та подані зі сметаною. Традиційний солодкий сніданок, який смакує по-домашньому.",
-				"bg": "Нежни домашни сирники с приятна сирена текстура, запечени до златиста коричка и поднесени със сметана. Традиционна сладка закуска с домашен вкус.",
-				"hr": "Nježni domaći syrnyky ugodne siraste teksture, pečeni do zlatne korice i posluženi s kiselim vrhnjem. Tradicionalan slatki doručak domaćeg okusa.",
-				"cs": "Jemné domácí syrniky s příjemnou sýrovou strukturou, opečené dozlatova a podávané se zakysanou smetanou. Tradiční sladká snídaně s domácí chutí.",
-				"da": "Bløde hjemmelavede syrnyky med en lækker osteagtig konsistens, stegt gyldne og serveret med cremefraiche. En traditionel sød morgenmad med hjemlig smag.",
-				"nl": "Zachte huisgemaakte syrnyky met een fijne kaasttextuur, goudbruin gebakken en geserveerd met zure room. Een traditioneel zoet ontbijt met huiselijke smaak.",
 				"en": "Tender homemade syrnyky with a delicate cheese texture, pan-fried until golden and served with sour cream. A traditional sweet breakfast with a comforting homemade feel.",
-				"et": "Õrnad kodused syrnykyd meeldiva kohupiimatekstuuriga, kuldseks praetud ja hapukoorega serveeritud. Traditsiooniline magus hommikusöök koduse maitsega.",
-				"fi": "Pehmeät kotitekoiset syrnykyt miellyttävällä rahkaisella rakenteella, kullanruskeiksi paistettuina ja smetanan kanssa tarjoiltuina. Perinteinen makea aamiainen kotisella maulla.",
-				"fr": "De tendres syrnyky maison à la texture délicate de fromage frais, dorés à la poêle et servis avec de la crème aigre. Un petit-déjeuner sucré traditionnel au goût de maison.",
-				"de": "Zarte hausgemachte Syrnyky mit feiner Quarktextur, goldbraun gebraten und mit Sauerrahm serviert. Ein traditionelles süßes Frühstück mit hausgemachtem Charakter.",
-				"el": "Τρυφερά σπιτικά syrnyky με ευχάριστη υφή τυριού, ψημένα μέχρι να ροδίσουν και σερβιρισμένα με ξινή κρέμα. Ένα παραδοσιακό γλυκό πρωινό με σπιτική αίσθηση.",
-				"hu": "Lágy házi syrnyky kellemes túrós állaggal, aranybarnára sütve és tejföllel tálalva. Hagyományos édes reggeli otthonos ízzel.",
-				"ga": "Syrnyky boga baile le huigeacht bhog cháis, friochta go hórga agus seirbheáilte le huachtar géar. Bricfeasta milis traidisiúnta le blas baile.",
-				"it": "Syrnyky fatti in casa, morbidi e dalla delicata consistenza di formaggio, dorati in padella e serviti con panna acida. Una colazione dolce tradizionale dal gusto casalingo.",
-				"lv": "Maigi mājās gatavoti syrnyki ar patīkamu biezpiena tekstūru, apcepti līdz zeltainai garoziņai un pasniegti ar skābo krējumu. Tradicionālas saldas brokastis ar mājīgu garšu.",
-				"lt": "Švelnūs naminiai syrnykai su malonia varškės tekstūra, apskrudinti iki auksinės plutelės ir patiekiami su grietine. Tradiciniai saldūs pusryčiai su naminiu skoniu.",
-				"mt": "Syrnyky rotob magħmula d-dar b’tessut delikat tal-ġobon, moqlija sa ma jsirux dehbin u servuti bil-krema qarsa. Kolazzjon tradizzjonali ħelu b’togħma ta’ dar.",
-				"pl": "Delikatne domowe syrniki o przyjemnej twarogowej strukturze, smażone na złoto i podawane ze śmietaną. Tradycyjne słodkie śniadanie o domowym charakterze.",
-				"pt": "Syrnyky caseiros macios, com delicada textura de queijo, dourados na frigideira e servidos com nata azeda. Um pequeno-almoço doce e tradicional com sabor caseiro.",
-				"ro": "Syrnyky fragede de casă, cu textură fină de brânză, rumenite frumos și servite cu smântână. Un mic dejun dulce tradițional, cu gust de casă.",
-				"sk": "Jemné domáce syrniky s príjemnou tvarohovou textúrou, opečené dozlatista a podávané s kyslou smotanou. Tradičné sladké raňajky s domácou chuťou.",
-				"sl": "Nežni domači syrnyki s prijetno sirasto teksturo, zapečeni do zlatorjave skorjice in postreženi s kislo smetano. Tradicionalen sladek zajtrk z domačim pridihom.",
-				"es": "Syrnyky caseros y tiernos, con delicada textura de queso, dorados en la sartén y servidos con crema agria. Un desayuno dulce tradicional con sabor a hogar.",
-				"sv": "Mjuka hemlagade syrnyky med fin ostig konsistens, stekta gyllene och serverade med gräddfil. En traditionell söt frukost med hemtrevlig känsla."
+				"ua": "Ніжні домашні сирники з приємною сирною текстурою, обсмажені до золотистої скоринки та подані зі сметаною. Традиційний солодкий сніданок, який смакує по-домашньому.",
+				"de": "Zarte hausgemachte Syrnyky mit feiner Quarktextur, goldbraun gebraten und mit Sauerrahm serviert. Ein traditionelles süßes Frühstück mit hausgemachtem Charakter."
 			}
 		}
 	},
@@ -120,114 +32,26 @@
 		"document": "item",
 		"data": {
 			"title": {
-				"ua": "Капучино",
-				"bg": "Капучино",
-				"hr": "Cappuccino",
-				"cs": "Cappuccino",
-				"da": "Cappuccino",
-				"nl": "Cappuccino",
 				"en": "Cappuccino",
-				"et": "Cappuccino",
-				"fi": "Cappuccino",
-				"fr": "Cappuccino",
-				"de": "Cappuccino",
-				"el": "Καπουτσίνο",
-				"hu": "Cappuccino",
-				"ga": "Cappuccino",
-				"it": "Cappuccino",
-				"lv": "Kapučīno",
-				"lt": "Kapučinas",
-				"mt": "Cappuccino",
-				"pl": "Cappuccino",
-				"pt": "Cappuccino",
-				"ro": "Cappuccino",
-				"sk": "Cappuccino",
-				"sl": "Kapučino",
-				"es": "Capuchino",
-				"sv": "Cappuccino"
+				"ua": "Капучино",
+				"de": "Cappuccino"
 			},
 			"description": {
-				"ua": "Еспресо зі спіненим молоком і молочною піною.",
-				"bg": "Еспресо със затоплено мляко и млечна пяна.",
-				"hr": "Espresso s ugrijanim mlijekom i mliječnom pjenom.",
-				"cs": "Espresso s napařeným mlékem a mléčnou pěnou.",
-				"da": "Espresso med dampet mælk og mælkeskum.",
-				"nl": "Espresso met gestoomde melk en melkschuim.",
 				"en": "Espresso with steamed milk and foam.",
-				"et": "Espresso aurutatud piima ja piimavahuga.",
-				"fi": "Espresso höyrytetyllä maidolla ja maitovaahdolla.",
-				"fr": "Espresso avec lait chaud moussé et mousse de lait.",
-				"de": "Espresso mit aufgeschäumter Milch und Milchschaum.",
-				"el": "Εσπρέσο με ζεστό αφρόγαλα και αφρό γάλακτος.",
-				"hu": "Eszpresszó gőzölt tejjel és tejhabbal.",
-				"ga": "Espresso le bainne galaithe agus cúr bainne.",
-				"it": "Espresso con latte vaporizzato e schiuma di latte.",
-				"lv": "Espresso ar tvaicētu pienu un piena putām.",
-				"lt": "Espresas su garintu pienu ir pieno puta.",
-				"mt": "Espresso b'ħalib imsaħħan bil-fwar u ragħwa tal-ħalib.",
-				"pl": "Espresso ze spienionym mlekiem i mleczną pianką.",
-				"pt": "Espresso com leite vaporizado e espuma de leite.",
-				"ro": "Espresso cu lapte încălzit la abur și spumă de lapte.",
-				"sk": "Espresso s napeneným mliekom a mliečnou penou.",
-				"sl": "Espresso s parjenim mlekom in mlečno peno.",
-				"es": "Espresso con leche vaporizada y espuma de leche.",
-				"sv": "Espresso med ångad mjölk och mjölkskum."
+				"ua": "Еспресо зі спіненим молоком і молочною піною.",
+				"de": "Espresso mit aufgeschäumter Milch und Milchschaum."
 			},
 			"labels": [
 				{
-					"ua": "350мл",
-					"bg": "350 мл",
-					"hr": "350 ml",
-					"cs": "350 ml",
-					"da": "350 ml",
-					"nl": "350 ml",
 					"en": "350ml",
-					"et": "350 ml",
-					"fi": "350 ml",
-					"fr": "350 ml",
-					"de": "350 ml",
-					"el": "350 ml",
-					"hu": "350 ml",
-					"ga": "350 ml",
-					"it": "350 ml",
-					"lv": "350 ml",
-					"lt": "350 ml",
-					"mt": "350 ml",
-					"pl": "350 ml",
-					"pt": "350 ml",
-					"ro": "350 ml",
-					"sk": "350 ml",
-					"sl": "350 ml",
-					"es": "350 ml",
-					"sv": "350 ml"
+					"ua": "350мл",
+					"de": "350 ml"
 				}
 			],
 			"fullDescription": {
-				"ua": "Еспресо зі спіненим молоком і молочною піною. Інгредієнти: еспресо, спінене молоко та молочна піна.",
-				"bg": "Еспресо със затоплено мляко и млечна пяна. Съставки: еспресо, затоплено мляко и млечна пяна.",
-				"hr": "Espresso s ugrijanim mlijekom i mliječnom pjenom. Sastojci: espresso, ugrijano mlijeko i mliječna pjena.",
-				"cs": "Espresso s napařeným mlékem a mléčnou pěnou. Složení: espresso, napařené mléko a mléčná pěna.",
-				"da": "Espresso med dampet mælk og mælkeskum. Ingredienser: espresso, dampet mælk og mælkeskum.",
-				"nl": "Espresso met gestoomde melk en melkschuim. Ingrediënten: espresso, gestoomde melk en melkschuim.",
 				"en": "Espresso with steamed milk and foam. Ingredients: Espresso with steamed milk and foam..",
-				"et": "Espresso aurutatud piima ja piimavahuga. Koostisosad: espresso, aurutatud piim ja piimavaht.",
-				"fi": "Espresso höyrytetyllä maidolla ja maitovaahdolla. Ainesosat: espresso, höyrytetty maito ja maitovaahto.",
-				"fr": "Espresso avec lait chaud moussé et mousse de lait. Ingrédients : espresso, lait chaud moussé et mousse de lait.",
-				"de": "Espresso mit aufgeschäumter Milch und Milchschaum. Zutaten: Espresso, aufgeschäumte Milch und Milchschaum.",
-				"el": "Εσπρέσο με ζεστό αφρόγαλα και αφρό γάλακτος. Υλικά: εσπρέσο, ζεστό αφρόγαλα και αφρός γάλακτος.",
-				"hu": "Eszpresszó gőzölt tejjel és tejhabbal. Összetevők: eszpresszó, gőzölt tej és tejhab.",
-				"ga": "Espresso le bainne galaithe agus cúr bainne. Comhábhair: espresso, bainne galaithe agus cúr bainne.",
-				"it": "Espresso con latte vaporizzato e schiuma di latte. Ingredienti: espresso, latte vaporizzato e schiuma di latte.",
-				"lv": "Espresso ar tvaicētu pienu un piena putām. Sastāvdaļas: espresso, tvaicēts piens un piena putas.",
-				"lt": "Espresas su garintu pienu ir pieno puta. Sudėtis: espresas, garintas pienas ir pieno puta.",
-				"mt": "Espresso b'ħalib imsaħħan bil-fwar u ragħwa tal-ħalib. Ingredjenti: espresso, ħalib imsaħħan bil-fwar u ragħwa tal-ħalib.",
-				"pl": "Espresso ze spienionym mlekiem i mleczną pianką. Składniki: espresso, spienione mleko i mleczna pianka.",
-				"pt": "Espresso com leite vaporizado e espuma de leite. Ingredientes: espresso, leite vaporizado e espuma de leite.",
-				"ro": "Espresso cu lapte încălzit la abur și spumă de lapte. Ingrediente: espresso, lapte încălzit la abur și spumă de lapte.",
-				"sk": "Espresso s napeneným mliekom a mliečnou penou. Zloženie: espresso, napenené mlieko a mliečna pena.",
-				"sl": "Espresso s parjenim mlekom in mlečno peno. Sestavine: espresso, parjeno mleko in mlečna pena.",
-				"es": "Espresso con leche vaporizada y espuma de leche. Ingredientes: espresso, leche vaporizada y espuma de leche.",
-				"sv": "Espresso med ångad mjölk och mjölkskum. Ingredienser: espresso, ångad mjölk och mjölkskum."
+				"ua": "Еспресо зі спіненим молоком і молочною піною. Інгредієнти: еспресо, спінене молоко та молочна піна.",
+				"de": "Espresso mit aufgeschäumter Milch und Milchschaum. Zutaten: Espresso, aufgeschäumte Milch und Milchschaum."
 			}
 		}
 	},
@@ -236,114 +60,790 @@
 		"document": "item",
 		"data": {
 			"title": {
-				"ua": "Яйця",
-				"bg": "Яйца",
-				"hr": "Jaja",
-				"cs": "Vejce",
-				"da": "Æg",
-				"nl": "Eieren",
 				"en": "Eggs",
-				"et": "Munad",
-				"fi": "Munat",
-				"fr": "Œufs",
-				"de": "Eier",
-				"el": "Αυγά",
-				"hu": "Tojások",
-				"ga": "Uibheacha",
-				"it": "Uova",
-				"lv": "Olas",
-				"lt": "Kiaušiniai",
-				"mt": "Bajd",
-				"pl": "Jaja",
-				"pt": "Ovos",
-				"ro": "Ouă",
-				"sk": "Vajcia",
-				"sl": "Jajca",
-				"es": "Huevos",
-				"sv": "Ägg"
+				"ua": "Яйця",
+				"de": "Eier"
 			},
 			"description": {
-				"ua": "Свіжі яйця, приготовлені на замовлення.",
-				"bg": "Пресни яйца, приготвени по поръчка.",
-				"hr": "Svježa jaja pripremljena po narudžbi.",
-				"cs": "Čerstvá vejce připravená na objednávku.",
-				"da": "Friske æg tilberedt efter bestilling.",
-				"nl": "Verse eieren bereid op bestelling.",
 				"en": "Fresh eggs prepared to order.",
-				"et": "Värsked munad valmistatud tellimuse järgi.",
-				"fi": "Tuoreet munat valmistettu tilauksesta.",
-				"fr": "Œufs frais préparés sur commande.",
-				"de": "Frische Eier nach Bestellung zubereitet.",
-				"el": "Φρέσκα αυγά παρασκευασμένα κατόπιν παραγγελίας.",
-				"hu": "Friss tojások rendelésre elkészítve.",
-				"ga": "Uibheacha úra ullmhaithe ar ordú.",
-				"it": "Uova fresche preparate su ordinazione.",
-				"lv": "Svaigas olas pagatavotas pēc pasūtījuma.",
-				"lt": "Švieži kiaušiniai, paruošti pagal užsakymą.",
-				"mt": "Bajd friski ppreparati fuq ordni.",
-				"pl": "Świeże jajka przygotowane na zamówienie.",
-				"pt": "Ovos frescos preparados por encomenda.",
-				"ro": "Ouă proaspete pregătite la comandă.",
-				"sk": "Čerstvé vajcia pripravené na objednávku.",
-				"sl": "Sveža jajca pripravljena po naročilu.",
-				"es": "Huevos frescos preparados a pedido.",
-				"sv": "Färska ägg tillredda på beställning."
+				"ua": "Свіжі яйця, приготовлені на замовлення.",
+				"de": "Frische Eier nach Bestellung zubereitet."
 			},
 			"labels": [
 				{
-					"ua": "2 шт",
-					"bg": "2 броя",
-					"hr": "2 komada",
-					"cs": "2 kusy",
-					"da": "2 stykker",
-					"nl": "2 stuks",
 					"en": "2 pieces",
-					"et": "2 tükki",
-					"fi": "2 kpl",
-					"fr": "2 pièces",
-					"de": "2 Stück",
-					"el": "2 κομμάτια",
-					"hu": "2 darab",
-					"ga": "2 phíosa",
-					"it": "2 pezzi",
-					"lv": "2 gabali",
-					"lt": "2 vnt",
-					"mt": "2 biċċa",
-					"pl": "2 sztuki",
-					"pt": "2 peças",
-					"ro": "2 bucăți",
-					"sk": "2 kusy",
-					"sl": "2 kosi",
-					"es": "2 piezas",
-					"sv": "2 stycken"
+					"ua": "2 шт",
+					"de": "2 Stück"
 				}
 			],
 			"fullDescription": {
-				"ua": "Свіжі яйця, приготовлені на замовлення. Інгредієнти: Свіжі яйця, приготовлені на замовлення.",
-				"bg": "Пресни яйца, приготвени по поръчка. Съставки: Пресни яйца, приготвени по поръчка.",
-				"hr": "Svježa jaja pripremljena po narudžbi. Sastojci: Svježa jaja pripremljena po narudžbi.",
-				"cs": "Čerstvá vejce připravená na objednávku. Ingredience: Čerstvá vejce připravená na objednávku.",
-				"da": "Friske æg tilberedt efter bestilling. Ingredienser: Friske æg tilberedt efter bestilling.",
-				"nl": "Verse eieren bereid op bestelling. Ingrediënten: Verse eieren bereid op bestelling.",
 				"en": "Fresh eggs prepared to order. Ingredients: Fresh eggs prepared to order.",
-				"et": "Värsked munad valmistatud tellimuse järgi. Koostisosad: Värsked munad valmistatud tellimuse järgi.",
-				"fi": "Tuoreet munat valmistettu tilauksesta. Ainekset: Tuoreet munat valmistettu tilauksesta.",
-				"fr": "Œufs frais préparés sur commande. Ingrédients: Œufs frais préparés sur commande.",
-				"de": "Frische Eier nach Bestellung zubereitet. Zutaten: Frische Eier nach Bestellung zubereitet.",
-				"el": "Φρέσκα αυγά παρασκευασμένα κατόπιν παραγγελίας. Συστατικά: Φρέσκα αυγά παρασκευασμένα κατόπιν παραγγελίας.",
-				"hu": "Friss tojások rendelésre elkészítve. Hozzávalók: Friss tojások rendelésre elkészítve.",
-				"ga": "Uibheacha úra ullmhaithe ar ordú. Comhábhair: Uibheacha úra ullmhaithe ar ordú.",
-				"it": "Uova fresche preparate su ordinazione. Ingredienti: Uova fresche preparate su ordinazione.",
-				"lv": "Svaigas olas pagatavotas pēc pasūtījuma. Sastāvdaļas: Svaigas olas pagatavotas pēc pasūtījuma.",
-				"lt": "Švieži kiaušiniai, paruošti pagal užsakymą. Sudedamosios dalys: Švieži kiaušiniai, paruošti pagal užsakymą.",
-				"mt": "Bajd friski ppreparati fuq ordni. Ingredjenti: Bajd friski ppreparati fuq ordni.",
-				"pl": "Świeże jajka przygotowane na zamówienie. Składniki: Świeże jajka przygotowane na zamówienie.",
-				"pt": "Ovos frescos preparados por encomenda. Ingredientes: Ovos frescos preparados por encomenda.",
-				"ro": "Ouă proaspete pregătite la comandă. Ingrediente: Ouă proaspete pregătite la comandă.",
-				"sk": "Čerstvé vajcia pripravené na objednávku. Zloženie: Čerstvé vajcia pripravené na objednávku.",
-				"sl": "Sveža jajca pripravljena po naročilu. Sestavine: Sveža jajca pripravljena po naročilu.",
-				"es": "Huevos frescos preparados a pedido. Ingredientes: Huevos frescos preparados a pedido.",
-				"sv": "Färska ägg tillredda på beställning. Ingredienser: Färska ägg tillredda på beställning."
+				"ua": "Свіжі яйця, приготовлені на замовлення. Інгредієнти: Свіжі яйця, приготовлені на замовлення.",
+				"de": "Frische Eier nach Bestellung zubereitet. Zutaten: Frische Eier nach Bestellung zubereitet."
+			}
+		}
+	},
+	{
+		"slug": "salmon-tartare-with-avocado-mango-sauce",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Salmon tartare with avocado and mango sauce",
+				"ua": "Тартар з лососем, авокадо та манговим соусом",
+				"de": "Lachstatar mit Avocado und Mangosauce"
+			},
+			"description": {
+				"en": "Fresh salmon tartare served with avocado and delicate mango sauce.",
+				"ua": "Свіжий тартар з лососем, авокадо та ніжним манговим соусом.",
+				"de": "Frisches Lachstatar mit Avocado und feiner Mangosauce."
+			},
+			"labels": [
+				{
+					"en": "190 g",
+					"ua": "190 г",
+					"de": "190 g"
+				}
+			],
+			"fullDescription": {
+				"en": "Fresh salmon tartare with ripe avocado and a bright mango sauce. A refined cold starter with a balance of fish, fruit and creamy texture.",
+				"ua": "Свіжий тартар з лососем з соковитим авокадо та яскравим манговим соусом. Вишукана холодна закуска з гармонією риби, фрукта та кремової текстури.",
+				"de": "Frisches Lachstatar mit reifer Avocado und einer fruchtigen Mangosauce. Eine raffinierte kalte Vorspeise im Gleichgewicht zwischen Fisch, Frucht und cremiger Textur."
+			}
+		}
+	},
+	{
+		"slug": "forshmak-with-toasts",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Forshmak with toasts",
+				"ua": "Форшмак з грінками",
+				"de": "Forshmak mit Toasts"
+			},
+			"description": {
+				"en": "Traditional herring forshmak served with crispy toasts.",
+				"ua": "Традиційний форшмак із оселедця з хрусткими грінками.",
+				"de": "Traditioneller Hering-Forshmak mit knusprigen Toasts."
+			},
+			"labels": [
+				{
+					"en": "175 g",
+					"ua": "175 г",
+					"de": "175 g"
+				}
+			],
+			"fullDescription": {
+				"en": "Classic herring forshmak with butter and onion, served with crispy toasts. A rich and savoury cold appetizer.",
+				"ua": "Класичний форшмак з оселедця з вершковим маслом і цибулею, подається з хрусткими грінками. Насичена солона холодна закуска.",
+				"de": "Klassischer Hering-Forshmak mit Butter und Zwiebel, serviert mit knusprigen Toasts. Eine kräftige, herzhafte kalte Vorspeise."
+			}
+		}
+	},
+	{
+		"slug": "spread-assortment-with-toasts",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Spread assortment with toasts",
+				"ua": "Асорті намазок з грінками",
+				"de": "Aufstrich-Auswahl mit Toasts"
+			},
+			"description": {
+				"en": "Selection of homemade spreads served with toasts.",
+				"ua": "Добірка домашніх намазок з грінками.",
+				"de": "Auswahl hausgemachter Aufstriche mit Toasts."
+			},
+			"labels": [
+				{
+					"en": "200 g",
+					"ua": "200 г",
+					"de": "200 g"
+				}
+			],
+			"fullDescription": {
+				"en": "A trio of homemade spreads served with crispy toasts — perfect to share as a light starter.",
+				"ua": "Тріо домашніх намазок з хрусткими грінками — ідеально розділити як легку закуску.",
+				"de": "Trio hausgemachter Aufstriche mit knusprigen Toasts — ideal zum Teilen als leichte Vorspeise."
+			}
+		}
+	},
+	{
+		"slug": "fish-platter-with-caviar-and-butter",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Fish platter with caviar and butter",
+				"ua": "Рибне асорті з ікрою та маслом",
+				"de": "Fischplatte mit Kaviar und Butter"
+			},
+			"description": {
+				"en": "Assortment of fish with caviar and butter.",
+				"ua": "Асорті риби з ікрою та маслом.",
+				"de": "Fischauswahl mit Kaviar und Butter."
+			},
+			"labels": [
+				{
+					"en": "230 g",
+					"ua": "230 г",
+					"de": "230 g"
+				}
+			],
+			"fullDescription": {
+				"en": "Elegant platter of cured and smoked fish with caviar and butter — a festive cold appetizer.",
+				"ua": "Вишукане асорті солоної та копченої риби з ікрою та вершковим маслом — святкова холодна закуска.",
+				"de": "Elegante Auswahl gepökelter und geräucherter Fische mit Kaviar und Butter — eine festliche kalte Vorspeise."
+			}
+		}
+	},
+	{
+		"slug": "herring-with-aromatic-potatoes",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Herring with aromatic potatoes",
+				"ua": "Оселедець з ароматною картоплею",
+				"de": "Hering mit aromatischen Kartoffeln"
+			},
+			"description": {
+				"en": "Salted herring served with fragrant boiled potatoes.",
+				"ua": "Солоний оселедець з ароматною відвареною картоплею.",
+				"de": "Salzhering serviert mit duftenden Salzkartoffeln."
+			},
+			"labels": [
+				{
+					"en": "240g",
+					"ua": "240 г",
+					"de": "240g"
+				}
+			],
+			"fullDescription": {
+				"en": "Salted herring served with warm aromatic potatoes and onion — a hearty traditional starter.",
+				"ua": "Солоний оселедець, який подається з теплою ароматною картоплею та цибулею — ситна традиційна закуска.",
+				"de": "Salzhering mit warmen aromatischen Kartoffeln und Zwiebeln serviert — eine herzhafte traditionelle Vorspeise."
+			}
+		}
+	},
+	{
+		"slug": "cheese-assortment",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Cheese assortment",
+				"ua": "Сирне асорті",
+				"de": "Käseauswahl"
+			},
+			"description": {
+				"en": "Camembert, blue, parmesan and emmental with honey and nuts.",
+				"ua": "Камамбер, дорблю, пармезан і ементаль з медом та горіхами.",
+				"de": "Camembert, Blauschimmelkäse, Parmesan und Emmentaler mit Honig und Nüssen."
+			},
+			"labels": [
+				{
+					"en": "200g",
+					"ua": "200 г",
+					"de": "200g"
+				}
+			],
+			"fullDescription": {
+				"en": "Selection of camembert, blue cheese, parmesan and emmental served with honey and nuts.",
+				"ua": "Асорті сирів: камамбер, дорблю, пармезан та ементаль, подається з медом і горіхами.",
+				"de": "Auswahl von Camembert, Blauschimmelkäse, Parmesan und Emmentaler, serviert mit Honig und Nüssen."
+			}
+		}
+	},
+	{
+		"slug": "pate-with-cherry-confiture",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Pâté with cherry confiture",
+				"ua": "Паштет з вишневим конфітюром",
+				"de": "Pastete mit Kirschkonfitüre"
+			},
+			"description": {
+				"en": "Delicate homemade pâté served with cherry confiture.",
+				"ua": "Ніжний домашній паштет з вишневим конфітюром.",
+				"de": "Zarte hausgemachte Pastete serviert mit Kirschkonfitüre."
+			},
+			"labels": [
+				{
+					"en": "130/30g",
+					"ua": "130/30 г",
+					"de": "130/30g"
+				}
+			],
+			"fullDescription": {
+				"en": "Creamy homemade pâté paired with a sweet cherry confiture and toasted bread.",
+				"ua": "Кремовий домашній паштет у поєднанні з солодким вишневим конфітюром та підсмаженим хлібом.",
+				"de": "Cremige hausgemachte Pastete kombiniert mit süßer Kirschkonfitüre und geröstetem Brot."
+			}
+		}
+	},
+	{
+		"slug": "marinated-white-mushrooms-with-onion",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Marinated white mushrooms with onion",
+				"ua": "Мариновані білі гриби з цибулею",
+				"de": "Marinierte weiße Pilze mit Zwiebeln"
+			},
+			"description": {
+				"en": "Marinated white mushrooms served with onion.",
+				"ua": "Мариновані білі гриби, які подаються з цибулею.",
+				"de": "Marinierte weiße Pilze serviert mit Zwiebeln."
+			},
+			"labels": [
+				{
+					"en": "200g",
+					"ua": "200 г",
+					"de": "200g"
+				}
+			],
+			"fullDescription": {
+				"en": "Homemade marinated white mushrooms served with fresh onion — a classic cold snack.",
+				"ua": "Домашні мариновані білі гриби з свіжою цибулею — класична холодна закуска.",
+				"de": "Hausgemachte marinierte weiße Pilze serviert mit frischen Zwiebeln — ein klassischer kalter Snack."
+			}
+		}
+	},
+	{
+		"slug": "homemade-meat-platter",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Homemade meat platter",
+				"ua": "Домашнє м'ясне асорті",
+				"de": "Hausgemachte Fleischplatte"
+			},
+			"description": {
+				"en": "Chicken roulade, buzhenyna and baked pork neck.",
+				"ua": "Курячий рулет, буженина та запечений свинячий ошийок.",
+				"de": "Hähnchenroulade, Buschenina und gebackener Schweinenacken."
+			},
+			"labels": [
+				{
+					"en": "300/100g",
+					"ua": "300/100 г",
+					"de": "300/100g"
+				}
+			],
+			"fullDescription": {
+				"en": "Assortment of homemade meats: chicken roulade, buzhenyna and baked pork neck, served with accompaniments.",
+				"ua": "Асорті домашніх м'ясних делікатесів: курячий рулет, буженина та запечений свинячий ошийок, що подаються з додатками.",
+				"de": "Auswahl hausgemachter Fleischsorten: Hähnchenroulade, Buschenina und gebackener Schweinenacken, serviert mit Beilagen."
+			}
+		}
+	},
+	{
+		"slug": "meat-platter-to-beer",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Meat platter to beer",
+				"ua": "М'ясне асорті до пива",
+				"de": "Fleischplatte zum Bier"
+			},
+			"description": {
+				"en": "Salami, kabanosy, basturma, prosciutto and olives.",
+				"ua": "Салямі, кабаноси, бастурма, прошуто та оливки.",
+				"de": "Salami, Kabanos, Basturma, Prosciutto und Oliven."
+			},
+			"labels": [
+				{
+					"en": "200g",
+					"ua": "200 г",
+					"de": "200g"
+				}
+			],
+			"fullDescription": {
+				"en": "A hearty beer-friendly meat platter with salami, kabanosy, basturma, prosciutto and olives.",
+				"ua": "Ситне м'ясне асорті до пива з салямі, кабаносами, бастурмою, прошуто та оливками.",
+				"de": "Eine herzhafte Fleischplatte zum Bier mit Salami, Kabanos, Basturma, Prosciutto und Oliven."
+			}
+		}
+	},
+	{
+		"slug": "salo-assortment-with-garlic",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Salo assortment with garlic",
+				"ua": "Асорті сала з часником",
+				"de": "Salo-Auswahl mit Knoblauch"
+			},
+			"description": {
+				"en": "Selection of salo served with garlic.",
+				"ua": "Добірка сала, яке подається з часником.",
+				"de": "Auswahl an Salo serviert mit Knoblauch."
+			},
+			"labels": [
+				{
+					"en": "150/50g",
+					"ua": "150/50 г",
+					"de": "150/50g"
+				}
+			],
+			"fullDescription": {
+				"en": "Traditional Ukrainian salo selection served with fresh garlic — a classic snack.",
+				"ua": "Традиційна українська добірка сала, що подається зі свіжим часником — класична закуска.",
+				"de": "Traditionelle ukrainische Salo-Auswahl serviert mit frischem Knoblauch — ein klassischer Snack."
+			}
+		}
+	},
+	{
+		"slug": "bread-basket",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Bread basket",
+				"ua": "Хлібний кошик",
+				"de": "Brotkorb"
+			},
+			"description": {
+				"en": "Homemade bread selection.",
+				"ua": "Асорті домашнього хліба.",
+				"de": "Auswahl an hausgemachtem Brot."
+			},
+			"labels": [
+				{
+					"en": "200g",
+					"ua": "200 г",
+					"de": "200g"
+				}
+			],
+			"fullDescription": {
+				"en": "Basket of freshly baked homemade bread — perfect companion to any appetizer.",
+				"ua": "Кошик свіжоспеченого домашнього хліба — ідеальне доповнення до будь-якої закуски.",
+				"de": "Korb mit frisch gebackenem hausgemachtem Brot — perfekte Begleitung zu jeder Vorspeise."
+			}
+		}
+	},
+	{
+		"slug": "salad-with-braised-beetroot-and-lightly-salted-salmon",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Salad with braised beetroot and lightly salted salmon",
+				"ua": "Салат з тушкованим буряком та слабосоленим лососем",
+				"de": "Salat mit geschmorter Rote Bete und leicht gesalzenem Lachs"
+			},
+			"description": {
+				"en": "Lettuce, mix, braised beetroot, lightly salted salmon, avocado, egg, cherry tomatoes, blue cheese sauce.",
+				"ua": "Листя салату, мікс, тушкований буряк, слабосолений лосось, авокадо, яйце, помідори чері, соус дорблю.",
+				"de": "Kopfsalat, Mix, geschmorte Rote Bete, leicht gesalzener Lachs, Avocado, Ei, Kirschtomaten, Blauschimmelkäsesauce."
+			},
+			"labels": [
+				{
+					"en": "340g",
+					"ua": "340 г",
+					"de": "340g"
+				}
+			],
+			"fullDescription": {
+				"en": "Fresh salad with slow-braised beetroot and lightly salted salmon, combined with lettuce mix, avocado, egg and cherry tomatoes, dressed with blue cheese sauce.",
+				"ua": "Свіжий салат з повільно тушкованим буряком та слабосоленим лососем, у поєднанні з міксом салату, авокадо, яйцем та помідорами чері, заправлений соусом дорблю.",
+				"de": "Frischer Salat mit langsam geschmorter Rote Bete und leicht gesalzenem Lachs, kombiniert mit Salatmix, Avocado, Ei und Kirschtomaten, angerichtet mit Blauschimmelkäsesauce."
+			}
+		}
+	},
+	{
+		"slug": "cocktail-salad-with-mozzarella",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Cocktail salad with mozzarella",
+				"ua": "Коктейльний салат з моцарелою",
+				"de": "Cocktailsalat mit Mozzarella"
+			},
+			"description": {
+				"en": "Mozzarella, tomatoes, arugula, greens, basil oil.",
+				"ua": "Моцарела, помідори, рукола, зелень, базилікова олія.",
+				"de": "Mozzarella, Tomaten, Rucola, Grünzeug, Basilikumöl."
+			},
+			"labels": [
+				{
+					"en": "260g",
+					"ua": "260 г",
+					"de": "260g"
+				}
+			],
+			"fullDescription": {
+				"en": "Light cocktail salad of mozzarella, tomatoes and arugula finished with basil oil.",
+				"ua": "Легкий коктейльний салат з моцарелою, помідорами та руколою, приправлений базиліковою олією.",
+				"de": "Leichter Cocktailsalat aus Mozzarella, Tomaten und Rucola, verfeinert mit Basilikumöl."
+			}
+		}
+	},
+	{
+		"slug": "green-salad-with-guacamole",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Green salad with guacamole",
+				"ua": "Зелений салат з гуакамоле",
+				"de": "Grüner Salat mit Guacamole"
+			},
+			"description": {
+				"en": "Cherry tomatoes, mix salad, cucumber, Bulgarian pepper, sesame, sunflower seeds, pumpkin seeds, guacamole sauce.",
+				"ua": "Помідори чері, мікс салатів, огірок, болгарський перець, кунжут, насіння соняшника, гарбузове насіння, соус гуакамоле.",
+				"de": "Kirschtomaten, gemischter Salat, Gurke, Paprika, Sesam, Sonnenblumenkerne, Kürbiskerne, Guacamolesauce."
+			},
+			"labels": [
+				{
+					"en": "250g",
+					"ua": "250 г",
+					"de": "250g"
+				}
+			],
+			"fullDescription": {
+				"en": "Refreshing green salad with cherry tomatoes, cucumber, pepper and seed mix, dressed with homemade guacamole sauce.",
+				"ua": "Освіжаючий зелений салат з помідорами чері, огірком, перцем та міксом насіння, заправлений домашнім соусом гуакамоле.",
+				"de": "Erfrischender grüner Salat mit Kirschtomaten, Gurke, Paprika und Samenmischung, angerichtet mit hausgemachter Guacamolesauce."
+			}
+		}
+	},
+	{
+		"slug": "vegetable-mix-salad-with-blue-cheese",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Vegetable mix salad with blue cheese",
+				"ua": "Мікс салатів з овочами та сиром дорблю",
+				"de": "Gemischter Gemüsesalat mit Blauschimmelkäse"
+			},
+			"description": {
+				"en": "Lettuce mix, cherry tomatoes, mushrooms, avocado, Bulgarian pepper, sauce.",
+				"ua": "Мікс салатів, помідори чері, гриби, авокадо, болгарський перець, соус.",
+				"de": "Salatmix, Kirschtomaten, Pilze, Avocado, Paprika, Sauce."
+			},
+			"labels": [
+				{
+					"en": "320g",
+					"ua": "320 г",
+					"de": "320g"
+				}
+			],
+			"fullDescription": {
+				"en": "Vegetable medley with lettuce mix, cherry tomatoes, mushrooms, avocado and pepper, finished with blue cheese dressing.",
+				"ua": "Овочеве асорті з міксом салатів, помідорами чері, грибами, авокадо та перцем, заправлене соусом дорблю.",
+				"de": "Gemüsemischung mit Salatmix, Kirschtomaten, Pilzen, Avocado und Paprika, verfeinert mit Blauschimmelkäse-Dressing."
+			}
+		}
+	},
+	{
+		"slug": "salad-with-spicy-chicken",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Salad with spicy chicken",
+				"ua": "Салат з пікантною куркою",
+				"de": "Salat mit pikantem Hühnchen"
+			},
+			"description": {
+				"en": "Chicken fillet, cherry tomatoes, mix salad, apple, almond flakes, spicy sauce.",
+				"ua": "Куряче філе, помідори чері, мікс салатів, яблуко, мигдальні пластівці, пікантний соус.",
+				"de": "Hähnchenfilet, Kirschtomaten, Salatmix, Apfel, Mandelblättchen, pikante Sauce."
+			},
+			"labels": [
+				{
+					"en": "270g",
+					"ua": "270 г",
+					"de": "270g"
+				}
+			],
+			"fullDescription": {
+				"en": "Warm salad with juicy chicken fillet, cherry tomatoes, apple, lettuce mix and almond flakes, dressed with a spicy sauce.",
+				"ua": "Теплий салат з соковитим курячим філе, помідорами чері, яблуком, міксом салатів та мигдальними пластівцями, заправлений пікантним соусом.",
+				"de": "Warmer Salat mit saftigem Hähnchenfilet, Kirschtomaten, Apfel, Salatmix und Mandelblättchen, angerichtet mit einer pikanten Sauce."
+			}
+		}
+	},
+	{
+		"slug": "warm-salad-with-veal-and-cheese-fries",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Warm salad with veal and cheese fries",
+				"ua": "Теплий салат з телятиною та сирними фрі",
+				"de": "Warmer Salat mit Kalbfleisch und Käse-Pommes"
+			},
+			"description": {
+				"en": "Veal, Brussels sprouts, cherry tomatoes, mix salad, sesame, sauce.",
+				"ua": "Телятина, брюссельська капуста, помідори чері, мікс салатів, кунжут, соус.",
+				"de": "Kalbfleisch, Rosenkohl, Kirschtomaten, Salatmix, Sesam, Sauce."
+			},
+			"labels": [
+				{
+					"en": "300g",
+					"ua": "300 г",
+					"de": "300g"
+				}
+			],
+			"fullDescription": {
+				"en": "Warm salad with tender veal, Brussels sprouts, cherry tomatoes and mix salad, finished with sesame and a savoury sauce.",
+				"ua": "Теплий салат з ніжною телятиною, брюссельською капустою, помідорами чері та міксом салатів, посипаний кунжутом і заправлений пікантним соусом.",
+				"de": "Warmer Salat mit zartem Kalbfleisch, Rosenkohl, Kirschtomaten und Salatmix, verfeinert mit Sesam und einer pikanten Sauce."
+			}
+		}
+	},
+	{
+		"slug": "shrimp-salad",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Shrimp salad",
+				"ua": "Салат з креветками",
+				"de": "Garnelensalat"
+			},
+			"description": {
+				"en": "Shrimp, cucumber, cherry tomatoes, mix salad, sesame, nuts, sauce.",
+				"ua": "Креветки, огірок, помідори чері, мікс салатів, кунжут, горіхи, соус.",
+				"de": "Garnelen, Gurke, Kirschtomaten, Salatmix, Sesam, Nüsse, Sauce."
+			},
+			"labels": [
+				{
+					"en": "250g",
+					"ua": "250 г",
+					"de": "250g"
+				}
+			],
+			"fullDescription": {
+				"en": "Light shrimp salad with cucumber, cherry tomatoes, lettuce mix, sesame and nuts.",
+				"ua": "Легкий салат з креветками, огірком, помідорами чері, міксом салатів, кунжутом та горіхами.",
+				"de": "Leichter Garnelensalat mit Gurke, Kirschtomaten, Salatmix, Sesam und Nüssen."
+			}
+		}
+	},
+	{
+		"slug": "chicken-wings-in-honey-glaze",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Chicken wings in honey glaze",
+				"ua": "Курячі крильця в медовій глазурі",
+				"de": "Hähnchenflügel in Honigglasur"
+			},
+			"description": {
+				"en": "Tender chicken wings served in a sweet honey glaze.",
+				"ua": "Ніжні курячі крильця, які подаються в солодкій медовій глазурі.",
+				"de": "Zarte Hähnchenflügel serviert in einer süßen Honigglasur."
+			},
+			"labels": [
+				{
+					"en": "100/50g",
+					"ua": "100/50 г",
+					"de": "100/50g"
+				},
+				{
+					"en": "by weight",
+					"ua": "by wei гht",
+					"de": "by weight"
+				}
+			],
+			"fullDescription": {
+				"en": "Juicy oven-baked chicken wings glazed with honey — sweet, sticky and perfect for sharing.",
+				"ua": "Соковиті запечені в духовці курячі крильця, глазуровані медом — солодкі, липкі та ідеальні для спільного споживання.",
+				"de": "Saftige ofengebackene Hähnchenflügel mit Honig glasiert — süß, klebrig und perfekt zum Teilen."
+			}
+		}
+	},
+	{
+		"slug": "black-sea-red-mullet-with-tartar-sauce",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Black Sea red mullet with tartar sauce",
+				"ua": "Чорноморська барабулька з соусом тартар",
+				"de": "Schwarzmeer-Rotbarbe mit Sauce Tartar"
+			},
+			"description": {
+				"en": "Fried Black Sea red mullet served with tartar sauce.",
+				"ua": "Смажена чорноморська барабулька, яка подається з соусом тартар.",
+				"de": "Gebratene Schwarzmeer-Rotbarbe serviert mit Sauce Tartar."
+			},
+			"labels": [
+				{
+					"en": "100g",
+					"ua": "100 г",
+					"de": "100g"
+				},
+				{
+					"en": "by weight",
+					"ua": "by wei гht",
+					"de": "by weight"
+				}
+			],
+			"fullDescription": {
+				"en": "Crispy fried Black Sea red mullet served with homemade tartar sauce.",
+				"ua": "Хрустка смажена чорноморська барабулька, яка подається з домашнім соусом тартар.",
+				"de": "Knusprig gebratene Schwarzmeer-Rotbarbe serviert mit hausgemachter Sauce Tartar."
+			}
+		}
+	},
+	{
+		"slug": "cheese-sticks-with-cranberry-sauce",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Cheese sticks with cranberry sauce",
+				"ua": "Сирні палички з журавлинним соусом",
+				"de": "Käsestäbchen mit Preiselbeersauce"
+			},
+			"description": {
+				"en": "Crispy fried cheese sticks served with cranberry sauce.",
+				"ua": "Хрусткі смажені сирні палички, які подаються з журавлинним соусом.",
+				"de": "Knusprig frittierte Käsestäbchen serviert mit Preiselbeersauce."
+			},
+			"labels": [
+				{
+					"en": "220/50g",
+					"ua": "220/50 г",
+					"de": "220/50g"
+				}
+			],
+			"fullDescription": {
+				"en": "Golden crispy cheese sticks served with tangy cranberry sauce.",
+				"ua": "Золотисті хрусткі сирні палички, які подаються з кисло-солодким журавлинним соусом.",
+				"de": "Goldbraun knusprige Käsestäbchen serviert mit würziger Preiselbeersauce."
+			}
+		}
+	},
+	{
+		"slug": "stewed-white-mushrooms-in-sour-cream",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Stewed white mushrooms in sour cream",
+				"ua": "Тушковані білі гриби в сметані",
+				"de": "Geschmorte weiße Pilze in Sauerrahm"
+			},
+			"description": {
+				"en": "White mushrooms slow-stewed in sour cream.",
+				"ua": "Білі гриби, повільно тушковані в сметані.",
+				"de": "Weiße Pilze langsam in Sauerrahm geschmort."
+			},
+			"labels": [
+				{
+					"en": "220g",
+					"ua": "220 г",
+					"de": "220g"
+				}
+			],
+			"fullDescription": {
+				"en": "White mushrooms slow-stewed in rich sour cream with onion and herbs — a warming classic.",
+				"ua": "Білі гриби, повільно тушковані в насиченій сметані з цибулею та травами — зігріваюча класика.",
+				"de": "Weiße Pilze langsam geschmort in reichhaltigem Sauerrahm mit Zwiebeln und Kräutern — ein wärmender Klassiker."
+			}
+		}
+	},
+	{
+		"slug": "zurek",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Żurek",
+				"ua": "Журек",
+				"de": "Żurek"
+			},
+			"description": {
+				"en": "Traditional Polish sour rye soup.",
+				"ua": "Традиційний польський кислий житній суп.",
+				"de": "Traditionelle polnische saure Roggensuppe."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Traditional Polish sour rye soup with sausage and egg — warming and tangy.",
+				"ua": "Традиційний польський кислий житній суп з ковбасою та яйцем — зігріваючий та з кислинкою.",
+				"de": "Traditionelle polnische saure Roggensuppe mit Wurst und Ei — wärmend und würzig."
+			}
+		}
+	},
+	{
+		"slug": "bograch",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Bograch",
+				"ua": "Бограч",
+				"de": "Bogratsch"
+			},
+			"description": {
+				"en": "Rich Transcarpathian goulash-style soup.",
+				"ua": "Насичений закарпатський суп у стилі гуляшу.",
+				"de": "Reichhaltige transkarpatische Gulaschsuppe."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Hearty Transcarpathian bograch with beef, paprika and vegetables — a bold goulash-style soup.",
+				"ua": "Ситний закарпатський бограч з яловичиною, паприкою та овочами — яскравий суп у стилі гуляшу.",
+				"de": "Herzhafter transkarpatischer Bogratsch mit Rindfleisch, Paprika und Gemüse — eine kräftige Gulaschsuppe."
+			}
+		}
+	},
+	{
+		"slug": "halaszle-with-catfish",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Halászlé with catfish",
+				"ua": "Халасле з сомом",
+				"de": "Halászlé mit Wels"
+			},
+			"description": {
+				"en": "Hungarian fisherman’s soup with catfish.",
+				"ua": "Угорський рибний суп із сомом.",
+				"de": "Ungarische Fischersuppe mit Wels."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Traditional Hungarian fisherman’s soup made with catfish, paprika and onion.",
+				"ua": "Традиційний угорський рибний суп, приготований із сома, паприки та цибулі.",
+				"de": "Traditionelle ungarische Fischersuppe aus Wels, Paprika und Zwiebeln."
+			}
+		}
+	},
+	{
+		"slug": "quail-broth",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Quail broth",
+				"ua": "Бульйон з перепілкою",
+				"de": "Wachtelbrühe"
+			},
+			"description": {
+				"en": "Clear broth with quail.",
+				"ua": "Прозорий бульйон з перепілкою.",
+				"de": "Klare Brühe mit Wachtel."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Clear, aromatic quail broth served with noodles and fresh herbs.",
+				"ua": "Прозорий, ароматний бульйон з перепілкою, який подається з локшиною та свіжою зеленню.",
+				"de": "Klare, aromatische Wachtelbrühe serviert mit Nudeln und frischen Kräutern."
+			}
+		}
+	},
+	{
+		"slug": "cream-soup-with-porcini-mushrooms",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Cream soup with porcini mushrooms",
+				"ua": "Крем-суп з білими грибами",
+				"de": "Cremesuppe mit Steinpilzen"
+			},
+			"description": {
+				"en": "Creamy soup with porcini mushrooms.",
+				"ua": "Кремовий суп з білими грибами.",
+				"de": "Cremige Suppe mit Steinpilzen."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Velvety cream soup made with porcini mushrooms and finished with fresh herbs.",
+				"ua": "Оксамитовий крем-суп, приготований з білими грибами та доповнений свіжою зеленню.",
+				"de": "Samtige Cremesuppe aus Steinpilzen, verfeinert mit frischen Kräutern."
 			}
 		}
 	}

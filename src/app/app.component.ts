@@ -17,7 +17,7 @@ import { ScrollService } from './services/scroll.service';
 			aria-label="Bottom navigation"
 			class="fixed inset-x-0 bottom-0 z-30 border-t border-[var(--c-border)] bg-[var(--c-bg-secondary)]/95 px-2 py-2 backdrop-blur supports-[backdrop-filter]:bg-[var(--c-bg-secondary)]/88"
 		>
-			<div class="mx-auto grid max-w-[var(--container)] grid-cols-5 gap-1">
+			<div class="mx-auto grid max-w-[var(--container)] grid-cols-4 gap-1">
 				@for (item of navItems; track item.label) {
 					@if (item.route) {
 						<a
@@ -52,7 +52,6 @@ export class App {
 	private readonly _scrollService = inject(ScrollService);
 
 	protected readonly navItems = [
-		{ label: 'Nav', icon: 'navigation', route: '/navigation', exact: true },
 		{ label: 'Gallery', icon: 'photo_library', route: '/gallery', exact: true },
 		{ label: 'Socials', icon: 'share', route: '/socials', exact: true },
 		{ label: 'Favorite', icon: 'favorite', route: '/favorites', exact: true },

@@ -133,8 +133,6 @@ export const menuSections = buildMenuSections('ua');
 
 export const menuGroups = buildMenuGroups('ua');
 
-export const navigationSection =
-	menuSections.find((section) => section.id === 'burgers') ?? menuSections[0];
 
 export function buildMenuSections(language: LanguageCode) {
 	return _menuSections.map((section) => _toMenuSection(section, language));

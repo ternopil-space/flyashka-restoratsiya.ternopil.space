@@ -1,21 +1,5 @@
 [
 	{
-		"slug": "breakfasts",
-		"document": "itemCategory",
-		"data": {
-			"name": {
-				"en": "Breakfasts",
-				"ua": "Сніданки",
-				"de": "Frühstücke"
-			},
-			"description": {
-				"en": "Morning meals and light starters.",
-				"ua": "Ранкові страви та легкі закуски.",
-				"de": "Morgengerichte und leichte Vorspeisen."
-			}
-		}
-	},
-	{
 		"slug": "coffee",
 		"document": "itemCategory",
 		"data": {
@@ -92,6 +76,262 @@
 				"en": "Soups and broths.",
 				"ua": "Супи та бульйони.",
 				"de": "Suppen und Brühen."
+			}
+		}
+	},
+	{
+		"slug": "main-courses",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Main courses",
+				"ua": "Основні страви",
+				"de": "Hauptgerichte"
+			},
+			"description": {
+				"en": "Hot main dishes.",
+				"ua": "Гарячі основні страви.",
+				"de": "Heiße Hauptgerichte."
+			}
+		}
+	},
+	{
+		"slug": "side-dishes",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Side dishes",
+				"ua": "Гарніри",
+				"de": "Beilagen"
+			},
+			"description": {
+				"en": "Garnishes and sides.",
+				"ua": "Гарніри та додатки.",
+				"de": "Beilagen und Extras."
+			}
+		}
+	},
+	{
+		"slug": "desserts",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Desserts",
+				"ua": "Десерти",
+				"de": "Desserts"
+			},
+			"description": {
+				"en": "Sweet desserts and pastries.",
+				"ua": "Солодкі десерти та випічка.",
+				"de": "Süße Desserts und Gebäck."
+			}
+		}
+	},
+	{
+		"slug": "soft-drinks",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Soft drinks",
+				"ua": "Безалкогольні напої",
+				"de": "Alkoholfreie Getränke"
+			},
+			"description": {
+				"en": "Non-alcoholic beverages.",
+				"ua": "Безалкогольні напої.",
+				"de": "Alkoholfreie Getränke."
+			}
+		}
+	},
+	{
+		"slug": "hot-drinks",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Hot drinks",
+				"ua": "Гарячі напої",
+				"de": "Heiße Getränke"
+			},
+			"description": {
+				"en": "Hot beverages including coffee and tea.",
+				"ua": "Гарячі напої: кава та чай.",
+				"de": "Heiße Getränke inkl. Kaffee und Tee."
+			}
+		}
+	},
+	{
+		"slug": "cognac",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Cognac & Brandy",
+				"ua": "Коньяк",
+				"de": "Cognac & Brandy"
+			},
+			"description": {
+				"en": "Cognac and brandy selection.",
+				"ua": "Асорті коньяків та бренді.",
+				"de": "Cognac- und Brandyauswahl."
+			}
+		}
+	},
+	{
+		"slug": "sparkling-wines",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Sparkling wines",
+				"ua": "Ігристі вина",
+				"de": "Schaumweine"
+			},
+			"description": {
+				"en": "Champagne and sparkling wines.",
+				"ua": "Шампанське та ігристі вина.",
+				"de": "Champagner und Schaumweine."
+			}
+		}
+	},
+	{
+		"slug": "wines-ukraine",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Ukrainian wines",
+				"ua": "Вина України «Чизай»",
+				"de": "Ukrainische Weine"
+			},
+			"description": {
+				"en": "Wines from Ukraine.",
+				"ua": "Вина з України.",
+				"de": "Weine aus der Ukraine."
+			}
+		}
+	},
+	{
+		"slug": "wines-georgia",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Georgian wines",
+				"ua": "Вина Грузії",
+				"de": "Georgische Weine"
+			},
+			"description": {
+				"en": "Wines from Georgia.",
+				"ua": "Вина з Грузії.",
+				"de": "Weine aus Georgien."
+			}
+		}
+	},
+	{
+		"slug": "wines-usa",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "American wines",
+				"ua": "Вина США",
+				"de": "Amerikanische Weine"
+			},
+			"description": {
+				"en": "Wines from the USA.",
+				"ua": "Вина зі США.",
+				"de": "Weine aus den USA."
+			}
+		}
+	},
+	{
+		"slug": "wines-italy",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Italian wines",
+				"ua": "Вина Італії",
+				"de": "Italienische Weine"
+			},
+			"description": {
+				"en": "Wines from Italy.",
+				"ua": "Вина з Італії.",
+				"de": "Weine aus Italien."
+			}
+		}
+	},
+	{
+		"slug": "wines-australia",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Australian wines",
+				"ua": "Вина Австралії",
+				"de": "Australische Weine"
+			},
+			"description": {
+				"en": "Wines from Australia.",
+				"ua": "Вина з Австралії.",
+				"de": "Weine aus Australien."
+			}
+		}
+	},
+	{
+		"slug": "wines-spain",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Spanish wines",
+				"ua": "Вина Іспанії",
+				"de": "Spanische Weine"
+			},
+			"description": {
+				"en": "Wines from Spain.",
+				"ua": "Вина з Іспанії.",
+				"de": "Weine aus Spanien."
+			}
+		}
+	},
+	{
+		"slug": "wines-germany",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "German wines",
+				"ua": "Вина Німеччини",
+				"de": "Deutsche Weine"
+			},
+			"description": {
+				"en": "Wines from Germany.",
+				"ua": "Вина з Німеччини.",
+				"de": "Weine aus Deutschland."
+			}
+		}
+	},
+	{
+		"slug": "wines-france",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "French wines",
+				"ua": "Вина Франції",
+				"de": "Französische Weine"
+			},
+			"description": {
+				"en": "Wines from France.",
+				"ua": "Вина з Франції.",
+				"de": "Weine aus Frankreich."
+			}
+		}
+	},
+	{
+		"slug": "wines-non-alcoholic",
+		"document": "itemCategory",
+		"data": {
+			"name": {
+				"en": "Non-alcoholic wines",
+				"ua": "Вина безалкогольні",
+				"de": "Alkoholfreie Weine"
+			},
+			"description": {
+				"en": "Wines with 0.5% alcohol content.",
+				"ua": "Вина з вмістом алкоголю 0,5%.",
+				"de": "Weine mit 0,5% Alkoholgehalt."
 			}
 		}
 	}

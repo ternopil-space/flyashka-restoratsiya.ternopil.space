@@ -1,66 +1,5 @@
 [
 	{
-		"slug": "homemade-syrnyky-with-sour-cream",
-		"categorySlug": "breakfasts",
-		"title": "Homemade syrnyky with sour cream",
-		"description": "Golden cottage cheese pancakes served with sour cream.",
-		"price": 140,
-		"labels": [
-			"200g"
-		],
-		"fullDescription": "Golden cottage cheese pancakes served with sour cream. Ingredients: Golden cottage cheese pancakes served with sour cream..",
-		"suggested": [
-			"espresso",
-			"americano"
-		],
-		"cookTimeMinutes": 20,
-		"caloriesKcal": 420,
-		"portion": "200g",
-		"allergens": [
-			"cappuccino"
-		]
-	},
-	{
-		"slug": "cappuccino",
-		"categorySlug": "coffee",
-		"title": "Cappuccino",
-		"description": "Espresso with steamed milk and foam.",
-		"price": 50,
-		"labels": [
-			"350ml"
-		],
-		"fullDescription": "Espresso with steamed milk and foam. Ingredients: Espresso with steamed milk and foam..",
-		"suggested": [
-			"homemade-syrnyky-with-sour-cream"
-		],
-		"cookTimeMinutes": 5,
-		"caloriesKcal": 110,
-		"portion": "350ml",
-		"allergens": [
-			"milk"
-		]
-	},
-	{
-		"slug": "eggs",
-		"categorySlug": "breakfasts",
-		"title": "Eggs",
-		"description": "Fresh eggs prepared to order.",
-		"price": 100,
-		"labels": [
-			"2 pieces"
-		],
-		"fullDescription": "Fresh eggs prepared to order. Ingredients: Fresh eggs prepared to order.",
-		"suggested": [
-			"homemade-syrnyky-with-sour-cream"
-		],
-		"cookTimeMinutes": 10,
-		"caloriesKcal": 150,
-		"portion": "2 pieces",
-		"allergens": [
-			"eggs"
-		]
-	},
-	{
 		"slug": "salmon-tartare-with-avocado-mango-sauce",
 		"categorySlug": "cold-appetizers",
 		"title": "Salmon tartare with avocado and mango sauce",
@@ -610,5 +549,1283 @@
 		"allergens": [
 			"milk"
 		]
+	},
+	{
+		"slug": "rabbit-leg-in-white-mushroom-sauce",
+		"categorySlug": "main-courses",
+		"title": "Rabbit leg in white mushroom sauce",
+		"description": "Tender rabbit leg braised in a rich white mushroom sauce.",
+		"price": 128,
+		"labels": [
+			"100/70g",
+			"by weight"
+		],
+		"fullDescription": "Slow-braised rabbit leg in a rich white mushroom sauce — a classic European main course.",
+		"suggested": [
+			"baked-potato-with-rosemary",
+			"baked-vegetables"
+		],
+		"cookTimeMinutes": 35,
+		"caloriesKcal": 480,
+		"portion": "100/70g",
+		"allergens": []
+	},
+	{
+		"slug": "duck-viennese-style-with-red-cabbage",
+		"categorySlug": "main-courses",
+		"title": "Duck Viennese style with red cabbage",
+		"description": "Duck prepared Viennese style, served with braised red cabbage.",
+		"price": 85,
+		"labels": [
+			"100g",
+			"by weight"
+		],
+		"fullDescription": "Duck prepared Viennese style served with braised red cabbage. Sold by weight.",
+		"suggested": [
+			"baked-potato-with-rosemary"
+		],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 520,
+		"portion": "100g",
+		"allergens": []
+	},
+	{
+		"slug": "duck-fillet-with-cranberry-sauce-and-caramelized-pear",
+		"categorySlug": "main-courses",
+		"title": "Duck fillet with cranberry sauce and caramelized pear",
+		"description": "Duck fillet with cranberry sauce and caramelized pear.",
+		"price": 185,
+		"labels": [
+			"370g"
+		],
+		"fullDescription": "Juicy duck fillet served with tangy cranberry sauce and sweet caramelized pear.",
+		"suggested": [
+			"baked-potato-with-rosemary"
+		],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 560,
+		"portion": "370g",
+		"allergens": []
+	},
+	{
+		"slug": "stuffed-chicken-schnitzel-with-bacon-mozzarella-basil",
+		"categorySlug": "main-courses",
+		"title": "Stuffed chicken schnitzel with bacon, mozzarella and basil sauce",
+		"description": "Chicken schnitzel stuffed with bacon and mozzarella, served with basil sauce.",
+		"price": 87,
+		"labels": [
+			"200/70g"
+		],
+		"fullDescription": "Chicken schnitzel stuffed with bacon and mozzarella, pan-fried and served with a fragrant basil sauce.",
+		"suggested": [
+			"baked-vegetables",
+			"french-fries"
+		],
+		"cookTimeMinutes": 25,
+		"caloriesKcal": 620,
+		"portion": "200/70g",
+		"allergens": [
+			"milk",
+			"gluten"
+		]
+	},
+	{
+		"slug": "veal-rack-with-pomegranate-sauce",
+		"categorySlug": "main-courses",
+		"title": "Veal rack with pomegranate sauce",
+		"description": "Veal rack served with pomegranate sauce.",
+		"price": 92,
+		"labels": [
+			"100/30g",
+			"by weight"
+		],
+		"fullDescription": "Tender veal rack served with a vibrant pomegranate sauce. Sold by weight.",
+		"suggested": [
+			"potato-celery-puree",
+			"baked-vegetables"
+		],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 440,
+		"portion": "100/30g",
+		"allergens": []
+	},
+	{
+		"slug": "veal-medallion-with-chanterelles-and-potato-celery-puree",
+		"categorySlug": "main-courses",
+		"title": "Veal medallion with chanterelles and potato-celery puree",
+		"description": "Veal medallion with chanterelles and potato-celery puree.",
+		"price": 185,
+		"labels": [
+			"110/210g"
+		],
+		"fullDescription": "Pan-seared veal medallion with golden chanterelles and creamy potato-celery puree.",
+		"suggested": [
+			"baked-vegetables"
+		],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 580,
+		"portion": "110/210g",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "pork-knuckle-with-braised-cabbage",
+		"categorySlug": "main-courses",
+		"title": "Pork knuckle with braised cabbage",
+		"description": "Slow-roasted pork knuckle served with braised cabbage.",
+		"price": 45,
+		"labels": [
+			"100g",
+			"by weight"
+		],
+		"fullDescription": "Slow-roasted pork knuckle with tender braised cabbage. Sold by weight.",
+		"suggested": [
+			"baked-potato-with-rosemary"
+		],
+		"cookTimeMinutes": 40,
+		"caloriesKcal": 560,
+		"portion": "100g",
+		"allergens": []
+	},
+	{
+		"slug": "pork-neck-steak",
+		"categorySlug": "main-courses",
+		"title": "Pork neck steak",
+		"description": "Juicy grilled pork neck steak.",
+		"price": 68,
+		"labels": [
+			"100g",
+			"by weight"
+		],
+		"fullDescription": "Juicy grilled pork neck steak seasoned with herbs. Sold by weight.",
+		"suggested": [
+			"french-fries",
+			"baked-vegetables"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 480,
+		"portion": "100g",
+		"allergens": []
+	},
+	{
+		"slug": "pork-ribs-in-bbq-sauce",
+		"categorySlug": "main-courses",
+		"title": "Tender pork ribs in BBQ sauce",
+		"description": "Tender pork ribs glazed with BBQ sauce.",
+		"price": 49,
+		"labels": [
+			"100g",
+			"by weight"
+		],
+		"fullDescription": "Slow-cooked tender pork ribs glazed with a rich BBQ sauce. Sold by weight.",
+		"suggested": [
+			"french-fries",
+			"baked-vegetables"
+		],
+		"cookTimeMinutes": 40,
+		"caloriesKcal": 520,
+		"portion": "100g",
+		"allergens": []
+	},
+	{
+		"slug": "river-trout-fillet-with-butter-and-caviar",
+		"categorySlug": "main-courses",
+		"title": "River trout fillet with butter and caviar",
+		"description": "River trout fillet with clarified butter and caviar.",
+		"price": 169,
+		"labels": [
+			"130g"
+		],
+		"fullDescription": "Delicate river trout fillet pan-fried in clarified butter and served with caviar.",
+		"suggested": [
+			"baked-vegetables",
+			"potato-celery-puree"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 380,
+		"portion": "130g",
+		"allergens": [
+			"fish"
+		]
+	},
+	{
+		"slug": "carp-fillet-with-white-mushroom-sauce",
+		"categorySlug": "main-courses",
+		"title": "Carp fillet with white mushroom sauce",
+		"description": "Carp fillet served with white mushroom sauce.",
+		"price": 135,
+		"labels": [
+			"150/150g"
+		],
+		"fullDescription": "Tender carp fillet served with a creamy white mushroom sauce.",
+		"suggested": [
+			"baked-vegetables",
+			"baked-potato-with-rosemary"
+		],
+		"cookTimeMinutes": 25,
+		"caloriesKcal": 420,
+		"portion": "150/150g",
+		"allergens": [
+			"fish",
+			"milk"
+		]
+	},
+	{
+		"slug": "salmon-in-basil-cream-sauce-with-zucchini",
+		"categorySlug": "main-courses",
+		"title": "Salmon in basil cream sauce with zucchini",
+		"description": "Salmon fillet in basil cream sauce with zucchini.",
+		"price": 164,
+		"labels": [
+			"150/100g"
+		],
+		"fullDescription": "Pan-seared salmon fillet in a fragrant basil cream sauce, served with grilled zucchini.",
+		"suggested": [
+			"baked-vegetables"
+		],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 440,
+		"portion": "150/100g",
+		"allergens": [
+			"fish",
+			"milk"
+		]
+	},
+	{
+		"slug": "baked-vegetables",
+		"categorySlug": "side-dishes",
+		"title": "Baked vegetables",
+		"description": "Seasonal vegetables oven-baked to perfection.",
+		"price": 54,
+		"labels": [
+			"180g"
+		],
+		"fullDescription": "Seasonal vegetables oven-baked with herbs and olive oil.",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 160,
+		"portion": "180g",
+		"allergens": []
+	},
+	{
+		"slug": "french-fries",
+		"categorySlug": "side-dishes",
+		"title": "French fries",
+		"description": "Classic golden crispy french fries.",
+		"price": 52,
+		"labels": [
+			"200/30g"
+		],
+		"fullDescription": "Classic golden crispy french fries served with sauce.",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 380,
+		"portion": "200/30g",
+		"allergens": [
+			"gluten"
+		]
+	},
+	{
+		"slug": "baked-potato-with-rosemary",
+		"categorySlug": "side-dishes",
+		"title": "Baked potato with rosemary",
+		"description": "Oven-baked potato with rosemary.",
+		"price": 45,
+		"labels": [
+			"220g"
+		],
+		"fullDescription": "Tender oven-baked potato seasoned with rosemary and olive oil.",
+		"suggested": [],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 280,
+		"portion": "220g",
+		"allergens": []
+	},
+	{
+		"slug": "potato-celery-puree",
+		"categorySlug": "side-dishes",
+		"title": "Potato-celery puree",
+		"description": "Creamy potato and celery puree.",
+		"price": 52,
+		"labels": [
+			"200g"
+		],
+		"fullDescription": "Velvety smooth potato and celery puree with butter and cream.",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 260,
+		"portion": "200g",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "banosh-with-brynza",
+		"categorySlug": "side-dishes",
+		"title": "Banosh with brynza",
+		"description": "Traditional Hutsul cornmeal porridge with brynza cheese.",
+		"price": 54,
+		"labels": [
+			"200g"
+		],
+		"fullDescription": "Traditional Hutsul banosh — creamy cornmeal cooked in sour cream, topped with brynza cheese.",
+		"suggested": [],
+		"cookTimeMinutes": 25,
+		"caloriesKcal": 420,
+		"portion": "200g",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "esterhazy-cake",
+		"categorySlug": "desserts",
+		"title": "Esterházy cake",
+		"description": "Classic Hungarian layered almond meringue cake.",
+		"price": 98,
+		"labels": [],
+		"fullDescription": "Classic Hungarian Esterházy torte — layers of almond meringue with vanilla buttercream.",
+		"suggested": [
+			"espresso-americano",
+			"latte"
+		],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 480,
+		"portion": "150g",
+		"allergens": [
+			"nuts",
+			"eggs",
+			"milk",
+			"gluten"
+		]
+	},
+	{
+		"slug": "medivnyk-cake",
+		"categorySlug": "desserts",
+		"title": "Medivnyk cake",
+		"description": "Traditional Ukrainian honey cake.",
+		"price": 72,
+		"labels": [],
+		"fullDescription": "Traditional Ukrainian medivnyk — soft honey cake with layers of cream.",
+		"suggested": [
+			"espresso-americano",
+			"brewed-tea"
+		],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 420,
+		"portion": "150g",
+		"allergens": [
+			"eggs",
+			"milk",
+			"gluten"
+		]
+	},
+	{
+		"slug": "clafoutis-with-cherry-and-white-chocolate",
+		"categorySlug": "desserts",
+		"title": "Clafoutis with cherry and white chocolate",
+		"description": "French clafoutis with cherry and white chocolate.",
+		"price": 53,
+		"labels": [],
+		"fullDescription": "Soft French-style clafoutis baked with cherries and white chocolate.",
+		"suggested": [
+			"espresso-americano",
+			"latte"
+		],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 360,
+		"portion": "150g",
+		"allergens": [
+			"eggs",
+			"milk",
+			"gluten"
+		]
+	},
+	{
+		"slug": "apple-strudel-with-ice-cream",
+		"categorySlug": "desserts",
+		"title": "Apple strudel with ice cream",
+		"description": "Warm apple strudel served with a scoop of ice cream.",
+		"price": 65,
+		"labels": [],
+		"fullDescription": "Warm flaky apple strudel with cinnamon filling, served with a scoop of vanilla ice cream.",
+		"suggested": [
+			"espresso-americano",
+			"latte"
+		],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 440,
+		"portion": "200g",
+		"allergens": [
+			"gluten",
+			"milk",
+			"eggs"
+		]
+	},
+	{
+		"slug": "fruit-sorbet",
+		"categorySlug": "desserts",
+		"title": "Fruit sorbet",
+		"description": "Refreshing fruit sorbet.",
+		"price": 58,
+		"labels": [],
+		"fullDescription": "Light and refreshing fruit sorbet — a perfect light ending to the meal.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 180,
+		"portion": "120g",
+		"allergens": []
+	},
+	{
+		"slug": "lemonade-1l",
+		"categorySlug": "soft-drinks",
+		"title": "Lemonade",
+		"description": "House lemonade.",
+		"price": 65,
+		"labels": [
+			"1L"
+		],
+		"fullDescription": "Freshly prepared house lemonade.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 120,
+		"portion": "1L",
+		"allergens": []
+	},
+	{
+		"slug": "fruit-juice",
+		"categorySlug": "soft-drinks",
+		"title": "Fruit juice",
+		"description": "Fresh fruit juice.",
+		"price": 18,
+		"labels": [
+			"250ml"
+		],
+		"fullDescription": "Fresh fruit juice.",
+		"suggested": [],
+		"cookTimeMinutes": 2,
+		"caloriesKcal": 90,
+		"portion": "250ml",
+		"allergens": []
+	},
+	{
+		"slug": "vichy-catalan-05l",
+		"categorySlug": "soft-drinks",
+		"title": "Vichy Catalan water 0.5L",
+		"description": "Sparkling mineral water from Spain.",
+		"price": 72,
+		"labels": [
+			"0.5L"
+		],
+		"fullDescription": "Vichy Catalan lightly sparkling natural mineral water from Spain, 0.5L.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 0,
+		"portion": "0.5L",
+		"allergens": []
+	},
+	{
+		"slug": "vichy-catalan-1l",
+		"categorySlug": "soft-drinks",
+		"title": "Vichy Catalan water 1L",
+		"description": "Sparkling mineral water from Spain.",
+		"price": 120,
+		"labels": [
+			"1L"
+		],
+		"fullDescription": "Vichy Catalan lightly sparkling natural mineral water from Spain, 1L.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 0,
+		"portion": "1L",
+		"allergens": []
+	},
+	{
+		"slug": "borjomi-05l",
+		"categorySlug": "soft-drinks",
+		"title": "Borjomi 0.5L",
+		"description": "Georgian sparkling mineral water.",
+		"price": 45,
+		"labels": [
+			"0.5L"
+		],
+		"fullDescription": "Borjomi sparkling Georgian mineral water, 0.5L.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 0,
+		"portion": "0.5L",
+		"allergens": []
+	},
+	{
+		"slug": "morshynska-05l",
+		"categorySlug": "soft-drinks",
+		"title": "Morshynska 0.5L",
+		"description": "Ukrainian mineral water, still or sparkling.",
+		"price": 40,
+		"labels": [
+			"0.5L"
+		],
+		"fullDescription": "Morshynska natural mineral water, available still or sparkling, 0.5L.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 0,
+		"portion": "0.5L",
+		"allergens": []
+	},
+	{
+		"slug": "coca-cola-pepsi",
+		"categorySlug": "soft-drinks",
+		"title": "Coca-Cola / Pepsi",
+		"description": "Soft drink.",
+		"price": 25,
+		"labels": [
+			"0.25L"
+		],
+		"fullDescription": "Chilled Coca-Cola or Pepsi, 0.25L.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 110,
+		"portion": "0.25L",
+		"allergens": []
+	},
+	{
+		"slug": "non-alcoholic-mojito",
+		"categorySlug": "soft-drinks",
+		"title": "Non-alcoholic Mojito cocktail",
+		"description": "Refreshing non-alcoholic mojito with mint and lime.",
+		"price": 58,
+		"labels": [
+			"300ml"
+		],
+		"fullDescription": "Refreshing non-alcoholic mojito cocktail with fresh mint, lime and sparkling water.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 80,
+		"portion": "300ml",
+		"allergens": []
+	},
+	{
+		"slug": "citrus-lemonade",
+		"categorySlug": "soft-drinks",
+		"title": "Citrus lemonade",
+		"description": "Freshly made citrus lemonade.",
+		"price": 48,
+		"labels": [
+			"300ml"
+		],
+		"fullDescription": "Freshly made citrus lemonade with lemon, orange and lime.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 90,
+		"portion": "300ml",
+		"allergens": []
+	},
+	{
+		"slug": "raspberry-lemonade",
+		"categorySlug": "soft-drinks",
+		"title": "Raspberry lemonade",
+		"description": "Freshly made raspberry lemonade.",
+		"price": 48,
+		"labels": [
+			"300ml"
+		],
+		"fullDescription": "Freshly made raspberry lemonade with fresh raspberries and mint.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 90,
+		"portion": "300ml",
+		"allergens": []
+	},
+	{
+		"slug": "cucumber-lemonade",
+		"categorySlug": "soft-drinks",
+		"title": "Cucumber lemonade",
+		"description": "Refreshing cucumber lemonade.",
+		"price": 48,
+		"labels": [
+			"300ml"
+		],
+		"fullDescription": "Refreshing cucumber lemonade with fresh cucumber and mint.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 70,
+		"portion": "300ml",
+		"allergens": []
+	},
+	{
+		"slug": "espresso-americano",
+		"categorySlug": "hot-drinks",
+		"title": "Espresso / Americano",
+		"description": "Classic espresso or americano.",
+		"price": 29,
+		"labels": [],
+		"fullDescription": "Classic espresso or americano — rich, aromatic and invigorating.",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 10,
+		"portion": "30/150ml",
+		"allergens": []
+	},
+	{
+		"slug": "decaf-coffee",
+		"categorySlug": "hot-drinks",
+		"title": "Decaf coffee",
+		"description": "Coffee without caffeine.",
+		"price": 29,
+		"labels": [],
+		"fullDescription": "Smooth and aromatic decaffeinated coffee.",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 10,
+		"portion": "30ml",
+		"allergens": []
+	},
+	{
+		"slug": "espresso-with-milk",
+		"categorySlug": "hot-drinks",
+		"title": "Espresso with milk",
+		"description": "Espresso served with warm milk.",
+		"price": 32,
+		"labels": [],
+		"fullDescription": "Espresso served with a side of warm milk.",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 50,
+		"portion": "30/100ml",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "coffee-glace",
+		"categorySlug": "hot-drinks",
+		"title": "Coffee Glacé",
+		"description": "Espresso with a scoop of vanilla ice cream.",
+		"price": 40,
+		"labels": [],
+		"fullDescription": "Rich espresso topped with a scoop of vanilla ice cream — sweet and indulgent.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 160,
+		"portion": "150ml",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "latte",
+		"categorySlug": "hot-drinks",
+		"title": "Latte",
+		"description": "Espresso with a generous pour of steamed milk.",
+		"price": 40,
+		"labels": [],
+		"fullDescription": "Smooth latte with espresso and a generous pour of velvety steamed milk.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 130,
+		"portion": "300ml",
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "brewed-tea",
+		"categorySlug": "hot-drinks",
+		"title": "Brewed tea (teapot 450ml)",
+		"description": "Freshly brewed loose-leaf tea.",
+		"price": 35,
+		"labels": [
+			"450ml"
+		],
+		"fullDescription": "Freshly brewed loose-leaf tea served in a teapot (450ml).",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 5,
+		"portion": "450ml",
+		"allergens": []
+	},
+	{
+		"slug": "sea-buckthorn-tea",
+		"categorySlug": "hot-drinks",
+		"title": "Sea buckthorn tea",
+		"description": "Warm sea buckthorn tea.",
+		"price": 39,
+		"labels": [],
+		"fullDescription": "Warm and tangy sea buckthorn tea — rich in vitamins and natural flavour.",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 40,
+		"portion": "300ml",
+		"allergens": []
+	},
+	{
+		"slug": "hennessy-vs",
+		"categorySlug": "cognac",
+		"title": "Hennessy VS",
+		"description": "Cognac Hennessy VS.",
+		"price": 110,
+		"labels": [
+			"50g"
+		],
+		"fullDescription": "Hennessy VS cognac — smooth and balanced with notes of fruit and oak.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 110,
+		"portion": "50g",
+		"allergens": []
+	},
+	{
+		"slug": "hennessy-vsop",
+		"categorySlug": "cognac",
+		"title": "Hennessy VSOP",
+		"description": "Cognac Hennessy VSOP.",
+		"price": 240,
+		"labels": [
+			"50g"
+		],
+		"fullDescription": "Hennessy VSOP — rich and elegant cognac aged in French oak barrels.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 110,
+		"portion": "50g",
+		"allergens": []
+	},
+	{
+		"slug": "metaxa-cognac",
+		"categorySlug": "cognac",
+		"title": "Metaxa",
+		"description": "Greek brandy Metaxa.",
+		"price": 50,
+		"labels": [
+			"50g"
+		],
+		"fullDescription": "Metaxa — unique Greek spirit blending aged wines and herbs.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 110,
+		"portion": "50g",
+		"allergens": []
+	},
+	{
+		"slug": "uzhhorod-ks-cognac",
+		"categorySlug": "cognac",
+		"title": "Uzhhorod KS",
+		"description": "Ukrainian cognac Uzhhorod KS.",
+		"price": 85,
+		"labels": [
+			"50g"
+		],
+		"fullDescription": "Ukrainian cognac Uzhhorod KS — smooth domestic cognac.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 110,
+		"portion": "50g",
+		"allergens": []
+	},
+	{
+		"slug": "moet-chandon-imperial",
+		"categorySlug": "sparkling-wines",
+		"title": "Moët & Chandon Impérial",
+		"description": "Brut champagne, 0.75L.",
+		"price": 2600,
+		"labels": [
+			"0.75L"
+		],
+		"fullDescription": "Moët & Chandon Impérial — iconic brut champagne from Champagne, France.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 90,
+		"portion": "0.75L",
+		"allergens": []
+	},
+	{
+		"slug": "asti-martini",
+		"categorySlug": "sparkling-wines",
+		"title": "Asti Martini",
+		"description": "Prosecco, sweet, 0.75L.",
+		"price": 460,
+		"labels": [
+			"0.75L"
+		],
+		"fullDescription": "Asti Martini — sweet Italian sparkling wine, light and fruity.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "0.75L",
+		"allergens": []
+	},
+	{
+		"slug": "artemivske-sparkling",
+		"categorySlug": "sparkling-wines",
+		"title": "Артемівське",
+		"description": "White, semi-sweet, brut, 0.75L.",
+		"price": 230,
+		"labels": [
+			"0.75L"
+		],
+		"fullDescription": "Артемівське sparkling wine — Ukrainian sparkling wine, white semi-sweet brut.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "0.75L",
+		"allergens": []
+	},
+	{
+		"slug": "lambrusco",
+		"categorySlug": "sparkling-wines",
+		"title": "Lambrusco",
+		"description": "Bianco / Rosato, 0.75L.",
+		"price": 260,
+		"labels": [
+			"0.75L"
+		],
+		"fullDescription": "Lambrusco — Italian sparkling wine, available in white (bianco) and rosé (rosato).",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "0.75L",
+		"allergens": []
+	},
+	{
+		"slug": "prosecco-frizzante",
+		"categorySlug": "sparkling-wines",
+		"title": "Prosecco Frizzante",
+		"description": "White, dry, 0.75L.",
+		"price": 460,
+		"labels": [
+			"0.75L"
+		],
+		"fullDescription": "Prosecco Frizzante — lightly sparkling Italian white wine, dry and refreshing.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "0.75L",
+		"allergens": []
+	},
+	{
+		"slug": "traminer-chyzay",
+		"categorySlug": "wines-ukraine",
+		"title": "Traminer «Chyzay»",
+		"description": "White, dry, 0.75L.",
+		"price": 32,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Traminer from Chyzay winery — aromatic white dry wine from Zakarpattia.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "red-blend-chyzay",
+		"categorySlug": "wines-ukraine",
+		"title": "Red Blend «Chyzay»",
+		"description": "Red, semi-sweet, 0.75L.",
+		"price": 40,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Red Blend from Chyzay winery — a balanced red semi-sweet wine blend.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "pinot-blanc-chyzay",
+		"categorySlug": "wines-ukraine",
+		"title": "Pinot Blanc «Chyzay»",
+		"description": "White, semi-sweet, 0.75L.",
+		"price": 34,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Pinot Blanc from Chyzay winery — elegant white semi-sweet wine.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "pinot-noir-chyzay",
+		"categorySlug": "wines-ukraine",
+		"title": "Pinot Noir «Chyzay»",
+		"description": "Red, semi-sweet, 0.75L.",
+		"price": 34,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Pinot Noir from Chyzay winery — light red semi-sweet wine with berry notes.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "alazani-valley",
+		"categorySlug": "wines-georgia",
+		"title": "Alazani Valley",
+		"description": "Red / White, semi-sweet, 0.75L.",
+		"price": 54,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Alazani Valley — classic Georgian semi-sweet wine, available in red and white.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "kindzmarauli",
+		"categorySlug": "wines-georgia",
+		"title": "Kindzmarauli",
+		"description": "Red, semi-sweet, 0.75L.",
+		"price": 95,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Kindzmarauli — iconic Georgian red semi-sweet wine with rich berry flavour.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 90,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "mukuzani",
+		"categorySlug": "wines-georgia",
+		"title": "Mukuzani",
+		"description": "Red, dry, 0.75L.",
+		"price": 75,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Mukuzani — full-bodied Georgian red dry wine aged in oak.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "tsinandali",
+		"categorySlug": "wines-georgia",
+		"title": "Tsinandali",
+		"description": "White, dry, 0.75L.",
+		"price": 54,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Tsinandali — classic Georgian white dry wine, crisp and elegant.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "big-top-white-zinfandel",
+		"categorySlug": "wines-usa",
+		"title": "The Big Top White Zinfandel",
+		"description": "Rosé, semi-sweet, 0.75L.",
+		"price": 83,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "The Big Top White Zinfandel — American rosé semi-sweet wine, fresh and fruity.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "barbera-appassimento",
+		"categorySlug": "wines-italy",
+		"title": "Barbera Appassimento",
+		"description": "Red, dry, 0.75L.",
+		"price": 85,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Barbera Appassimento — rich Italian red dry wine made from partially dried grapes.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 90,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "barbaresco-il-pozzo",
+		"categorySlug": "wines-italy",
+		"title": "IL Pozzo Barbaresco",
+		"description": "Red, dry, 0.75L.",
+		"price": 135,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "IL Pozzo Barbaresco — prestigious Italian red dry wine from Piedmont.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 90,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "cabernet-sauvignon-camden-park",
+		"categorySlug": "wines-australia",
+		"title": "Cabernet Sauvignon Camden Park",
+		"description": "Red, dry, 0.75L.",
+		"price": 65,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Cabernet Sauvignon Camden Park — Australian red dry wine with blackcurrant notes.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "chardonnay-camden-park",
+		"categorySlug": "wines-australia",
+		"title": "Chardonnay Camden Park",
+		"description": "White, dry, 0.75L.",
+		"price": 65,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Chardonnay Camden Park — crisp Australian white dry wine with citrus notes.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "yellow-tail-muscat",
+		"categorySlug": "wines-australia",
+		"title": "Yellow Tail Muscat",
+		"description": "Rosé, semi-sweet, 0.75L.",
+		"price": 85,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Yellow Tail Muscat — sweet Australian rosé wine with floral and grape aromas.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 90,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "rosado-don-simon",
+		"categorySlug": "wines-spain",
+		"title": "Rosado Don Simon",
+		"description": "Rosé, dry, 0.75L.",
+		"price": 39,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Rosado Don Simon — Spanish rosé dry wine, light and refreshing.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "tempranillo-don-simon",
+		"categorySlug": "wines-spain",
+		"title": "Tempranillo Don Simon",
+		"description": "Red, dry, 0.75L.",
+		"price": 39,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Tempranillo Don Simon — Spanish red dry wine with cherry and vanilla notes.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "don-simon-blanco",
+		"categorySlug": "wines-spain",
+		"title": "Don Simon Blanco",
+		"description": "White, dry, 0.75L.",
+		"price": 39,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Don Simon Blanco — Spanish white dry wine, crisp and clean.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "riesling-peter-nicolay",
+		"categorySlug": "wines-germany",
+		"title": "Riesling Peter Nicolay",
+		"description": "White, semi-dry, 0.75L.",
+		"price": 70,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Riesling Peter Nicolay — elegant German white semi-dry wine with fruity acidity.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "dornfelder",
+		"categorySlug": "wines-germany",
+		"title": "Dornfelder",
+		"description": "Red, sweet, 0.75L.",
+		"price": 70,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Dornfelder — German red wine with deep colour and sweet berry character.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 90,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "aujoux-lis-blanc",
+		"categorySlug": "wines-france",
+		"title": "Aujoux Lis Blanc",
+		"description": "White, dry, 0.75L.",
+		"price": 50,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Aujoux Lis Blanc — French white dry wine, fresh and elegant.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "aujoux-lis-rouge",
+		"categorySlug": "wines-france",
+		"title": "Aujoux Lis Rouge",
+		"description": "Red, dry, 0.75L.",
+		"price": 50,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Aujoux Lis Rouge — French red dry wine with smooth tannins.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "sancerre-michel-laurent",
+		"categorySlug": "wines-france",
+		"title": "Sancerre Michel Laurent",
+		"description": "White, dry, 0.75L.",
+		"price": 170,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Sancerre Michel Laurent — prestigious Loire Valley white wine, crisp and mineral.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 80,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "margaux-lucien-lurton",
+		"categorySlug": "wines-france",
+		"title": "Margaux Lucien Lurton",
+		"description": "Red, dry, 0.75L.",
+		"price": 220,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Margaux Lucien Lurton — refined Bordeaux red wine from the prestigious Margaux appellation.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 85,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "bon-voyage-chardonnay",
+		"categorySlug": "wines-non-alcoholic",
+		"title": "Bon Voyage Chardonnay",
+		"description": "White, dry, 0.5% alc., 0.75L.",
+		"price": 50,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Bon Voyage Chardonnay — non-alcoholic white wine (0.5% alc.), fresh and balanced.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 25,
+		"portion": "125g",
+		"allergens": []
+	},
+	{
+		"slug": "bon-voyage-cabernet",
+		"categorySlug": "wines-non-alcoholic",
+		"title": "Bon Voyage Cabernet Sauvignon",
+		"description": "Red, dry, 0.5% alc., 0.75L.",
+		"price": 50,
+		"labels": [
+			"125g",
+			"0.75L"
+		],
+		"fullDescription": "Bon Voyage Cabernet Sauvignon — non-alcoholic red wine (0.5% alc.), rich and smooth.",
+		"suggested": [],
+		"cookTimeMinutes": 1,
+		"caloriesKcal": 25,
+		"portion": "125g",
+		"allergens": []
 	}
 ]

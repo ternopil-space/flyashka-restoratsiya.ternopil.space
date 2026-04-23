@@ -1,89 +1,5 @@
 [
 	{
-		"slug": "homemade-syrnyky-with-sour-cream",
-		"document": "item",
-		"data": {
-			"title": {
-				"en": "Homemade syrnyky with sour cream",
-				"ua": "Домашні сирники зі сметаною",
-				"de": "Hausgemachte Syrnyky mit Sauerrahm"
-			},
-			"description": {
-				"en": "Golden cottage cheese pancakes served with sour cream.",
-				"ua": "Рум’яні сирники, подані зі сметаною.",
-				"de": "Goldene Quarkküchlein mit Sauerrahm serviert."
-			},
-			"labels": [
-				{
-					"en": "200 g",
-					"ua": "200 г",
-					"de": "200 g"
-				}
-			],
-			"fullDescription": {
-				"en": "Tender homemade syrnyky with a delicate cheese texture, pan-fried until golden and served with sour cream. A traditional sweet breakfast with a comforting homemade feel.",
-				"ua": "Ніжні домашні сирники з приємною сирною текстурою, обсмажені до золотистої скоринки та подані зі сметаною. Традиційний солодкий сніданок, який смакує по-домашньому.",
-				"de": "Zarte hausgemachte Syrnyky mit feiner Quarktextur, goldbraun gebraten und mit Sauerrahm serviert. Ein traditionelles süßes Frühstück mit hausgemachtem Charakter."
-			}
-		}
-	},
-	{
-		"slug": "cappuccino",
-		"document": "item",
-		"data": {
-			"title": {
-				"en": "Cappuccino",
-				"ua": "Капучино",
-				"de": "Cappuccino"
-			},
-			"description": {
-				"en": "Espresso with steamed milk and foam.",
-				"ua": "Еспресо зі спіненим молоком і молочною піною.",
-				"de": "Espresso mit aufgeschäumter Milch und Milchschaum."
-			},
-			"labels": [
-				{
-					"en": "350ml",
-					"ua": "350мл",
-					"de": "350 ml"
-				}
-			],
-			"fullDescription": {
-				"en": "Espresso with steamed milk and foam. Ingredients: Espresso with steamed milk and foam..",
-				"ua": "Еспресо зі спіненим молоком і молочною піною. Інгредієнти: еспресо, спінене молоко та молочна піна.",
-				"de": "Espresso mit aufgeschäumter Milch und Milchschaum. Zutaten: Espresso, aufgeschäumte Milch und Milchschaum."
-			}
-		}
-	},
-	{
-		"slug": "eggs",
-		"document": "item",
-		"data": {
-			"title": {
-				"en": "Eggs",
-				"ua": "Яйця",
-				"de": "Eier"
-			},
-			"description": {
-				"en": "Fresh eggs prepared to order.",
-				"ua": "Свіжі яйця, приготовлені на замовлення.",
-				"de": "Frische Eier nach Bestellung zubereitet."
-			},
-			"labels": [
-				{
-					"en": "2 pieces",
-					"ua": "2 шт",
-					"de": "2 Stück"
-				}
-			],
-			"fullDescription": {
-				"en": "Fresh eggs prepared to order. Ingredients: Fresh eggs prepared to order.",
-				"ua": "Свіжі яйця, приготовлені на замовлення. Інгредієнти: Свіжі яйця, приготовлені на замовлення.",
-				"de": "Frische Eier nach Bestellung zubereitet. Zutaten: Frische Eier nach Bestellung zubereitet."
-			}
-		}
-	},
-	{
 		"slug": "salmon-tartare-with-avocado-mango-sauce",
 		"document": "item",
 		"data": {
@@ -844,6 +760,2167 @@
 				"en": "Velvety cream soup made with porcini mushrooms and finished with fresh herbs.",
 				"ua": "Оксамитовий крем-суп, приготований з білими грибами та доповнений свіжою зеленню.",
 				"de": "Samtige Cremesuppe aus Steinpilzen, verfeinert mit frischen Kräutern."
+			}
+		}
+	},
+	{
+		"slug": "rabbit-leg-in-white-mushroom-sauce",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Rabbit leg in white mushroom sauce",
+				"ua": "Ніжка кролика в соусі з білих грибів",
+				"de": "Kaninchenschenkel in Steinpilzsauce"
+			},
+			"description": {
+				"en": "Tender rabbit leg braised in a rich white mushroom sauce.",
+				"ua": "Ніжна ніжка кролика, тушкована в насиченому соусі з білих грибів.",
+				"de": "Zarter Kaninchenschenkel geschmort in reichhaltiger Steinpilzsauce."
+			},
+			"labels": [
+				{
+					"en": "100/70g",
+					"ua": "100/70 г",
+					"de": "100/70g"
+				},
+				{
+					"en": "by weight",
+					"ua": "на вагу",
+					"de": "nach Gewicht"
+				}
+			],
+			"fullDescription": {
+				"en": "Slow-braised rabbit leg in a rich white mushroom sauce — a classic European main course.",
+				"ua": "Повільно тушкована ніжка кролика в насиченому соусі з білих грибів — класична європейська основна страва.",
+				"de": "Langsam geschmorter Kaninchenschenkel in reichhaltiger Steinpilzsauce — ein klassisches europäisches Hauptgericht."
+			}
+		}
+	},
+	{
+		"slug": "duck-viennese-style-with-red-cabbage",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Duck Viennese style with red cabbage",
+				"ua": "Качка по-Віденськи з синьою капустою",
+				"de": "Ente Wiener Art mit Rotkohl"
+			},
+			"description": {
+				"en": "Duck prepared Viennese style, served with braised red cabbage.",
+				"ua": "Качка, приготована по-Віденськи, подається з тушкованою синьою капустою.",
+				"de": "Ente Wiener Art serviert mit geschmortem Rotkohl."
+			},
+			"labels": [
+				{
+					"en": "100g",
+					"ua": "100 г",
+					"de": "100g"
+				},
+				{
+					"en": "by weight",
+					"ua": "на вагу",
+					"de": "nach Gewicht"
+				}
+			],
+			"fullDescription": {
+				"en": "Duck prepared Viennese style served with braised red cabbage. Sold by weight.",
+				"ua": "Качка, приготована по-Віденськи, подається з тушкованою синьою капустою. Продається на вагу.",
+				"de": "Ente Wiener Art mit geschmortem Rotkohl. Verkauf nach Gewicht."
+			}
+		}
+	},
+	{
+		"slug": "duck-fillet-with-cranberry-sauce-and-caramelized-pear",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Duck fillet with cranberry sauce and caramelized pear",
+				"ua": "Філе качки з журавлиним соусом та карамелізованою грушею",
+				"de": "Entenfilet mit Cranberrysauce und karamellisierter Birne"
+			},
+			"description": {
+				"en": "Duck fillet with cranberry sauce and caramelized pear.",
+				"ua": "Філе качки з журавлиним соусом та карамелізованою грушею.",
+				"de": "Entenfilet mit Cranberrysauce und karamellisierter Birne."
+			},
+			"labels": [
+				{
+					"en": "370g",
+					"ua": "370 г",
+					"de": "370g"
+				}
+			],
+			"fullDescription": {
+				"en": "Juicy duck fillet served with tangy cranberry sauce and sweet caramelized pear.",
+				"ua": "Соковите філе качки з кислим журавлиним соусом та солодкою карамелізованою грушею.",
+				"de": "Saftiges Entenfilet mit würziger Cranberrysauce und süßer karamellisierter Birne."
+			}
+		}
+	},
+	{
+		"slug": "stuffed-chicken-schnitzel-with-bacon-mozzarella-basil",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Stuffed chicken schnitzel with bacon, mozzarella and basil sauce",
+				"ua": "Шніцель курячий, фарширований беконом з моцарелою та базиліковим соусом",
+				"de": "Gefülltes Hähnchenschnitzel mit Speck, Mozzarella und Basilikumsauce"
+			},
+			"description": {
+				"en": "Chicken schnitzel stuffed with bacon and mozzarella, served with basil sauce.",
+				"ua": "Курячий шніцель, фарширований беконом та моцарелою, подається з базиліковим соусом.",
+				"de": "Hähnchenschnitzel gefüllt mit Speck und Mozzarella, serviert mit Basilikumsauce."
+			},
+			"labels": [
+				{
+					"en": "200/70g",
+					"ua": "200/70 г",
+					"de": "200/70g"
+				}
+			],
+			"fullDescription": {
+				"en": "Chicken schnitzel stuffed with bacon and mozzarella, pan-fried and served with a fragrant basil sauce.",
+				"ua": "Курячий шніцель, фарширований беконом та моцарелою, обсмажений на сковороді та поданий з ароматним базиліковим соусом.",
+				"de": "Hähnchenschnitzel gefüllt mit Speck und Mozzarella, gebraten und serviert mit einer aromatischen Basilikumsauce."
+			}
+		}
+	},
+	{
+		"slug": "veal-rack-with-pomegranate-sauce",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Veal rack with pomegranate sauce",
+				"ua": "Каре телятини з гранатовим соусом",
+				"de": "Kalbskarree mit Granatapfelsauce"
+			},
+			"description": {
+				"en": "Veal rack served with pomegranate sauce.",
+				"ua": "Каре телятини з гранатовим соусом.",
+				"de": "Kalbskarree serviert mit Granatapfelsauce."
+			},
+			"labels": [
+				{
+					"en": "100/30g",
+					"ua": "100/30 г",
+					"de": "100/30g"
+				},
+				{
+					"en": "by weight",
+					"ua": "на вагу",
+					"de": "nach Gewicht"
+				}
+			],
+			"fullDescription": {
+				"en": "Tender veal rack served with a vibrant pomegranate sauce. Sold by weight.",
+				"ua": "Ніжне каре телятини з яскравим гранатовим соусом. Продається на вагу.",
+				"de": "Zartes Kalbskarree mit kräftiger Granatapfelsauce. Verkauf nach Gewicht."
+			}
+		}
+	},
+	{
+		"slug": "veal-medallion-with-chanterelles-and-potato-celery-puree",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Veal medallion with chanterelles and potato-celery puree",
+				"ua": "Медальйон з телятини з лисичками та картопляно-селеровим пюре",
+				"de": "Kalbsmedaillon mit Pfifferlingen und Kartoffel-Sellerie-Püree"
+			},
+			"description": {
+				"en": "Veal medallion with chanterelles and potato-celery puree.",
+				"ua": "Медальйон з телятини з лисичками та картопляно-селеровим пюре.",
+				"de": "Kalbsmedaillon mit Pfifferlingen und Kartoffel-Sellerie-Püree."
+			},
+			"labels": [
+				{
+					"en": "110/210g",
+					"ua": "110/210 г",
+					"de": "110/210g"
+				}
+			],
+			"fullDescription": {
+				"en": "Pan-seared veal medallion with golden chanterelles and creamy potato-celery puree.",
+				"ua": "Обсмажений медальйон з телятини із золотистими лисичками та кремовим картопляно-селеровим пюре.",
+				"de": "Gebratenes Kalbsmedaillon mit goldenen Pfifferlingen und cremigem Kartoffel-Sellerie-Püree."
+			}
+		}
+	},
+	{
+		"slug": "pork-knuckle-with-braised-cabbage",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Pork knuckle with braised cabbage",
+				"ua": "Голонка з тушкованою капустою",
+				"de": "Schweinshaxe mit Schmorkohl"
+			},
+			"description": {
+				"en": "Slow-roasted pork knuckle served with braised cabbage.",
+				"ua": "Повільно запечена голонка з тушкованою капустою.",
+				"de": "Langsam gebratene Schweinshaxe mit Schmorkohl."
+			},
+			"labels": [
+				{
+					"en": "100g",
+					"ua": "100 г",
+					"de": "100g"
+				},
+				{
+					"en": "by weight",
+					"ua": "на вагу",
+					"de": "nach Gewicht"
+				}
+			],
+			"fullDescription": {
+				"en": "Slow-roasted pork knuckle with tender braised cabbage. Sold by weight.",
+				"ua": "Повільно запечена свиняча голонка з ніжною тушкованою капустою. Продається на вагу.",
+				"de": "Langsam gebratene Schweinshaxe mit zartem Schmorkohl. Verkauf nach Gewicht."
+			}
+		}
+	},
+	{
+		"slug": "pork-neck-steak",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Pork neck steak",
+				"ua": "Стейк зі свинного ошийка",
+				"de": "Schweinsnackensteak"
+			},
+			"description": {
+				"en": "Juicy grilled pork neck steak.",
+				"ua": "Соковитий стейк зі свинного ошийка на грилі.",
+				"de": "Saftiges gegrilltes Schweinsnackensteak."
+			},
+			"labels": [
+				{
+					"en": "100g",
+					"ua": "100 г",
+					"de": "100g"
+				},
+				{
+					"en": "by weight",
+					"ua": "на вагу",
+					"de": "nach Gewicht"
+				}
+			],
+			"fullDescription": {
+				"en": "Juicy grilled pork neck steak seasoned with herbs. Sold by weight.",
+				"ua": "Соковитий стейк зі свинного ошийка на грилі, приправлений травами. Продається на вагу.",
+				"de": "Saftiges gegrilltes Schweinsnackensteak mit Kräutern. Verkauf nach Gewicht."
+			}
+		}
+	},
+	{
+		"slug": "pork-ribs-in-bbq-sauce",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Tender pork ribs in BBQ sauce",
+				"ua": "Ніжні свинні реберця в соусі барбекю",
+				"de": "Zarte Schweinerippchen in BBQ-Sauce"
+			},
+			"description": {
+				"en": "Tender pork ribs glazed with BBQ sauce.",
+				"ua": "Ніжні свинні реберця в глазурі з соусу барбекю.",
+				"de": "Zarte Schweinerippchen glasiert mit BBQ-Sauce."
+			},
+			"labels": [
+				{
+					"en": "100g",
+					"ua": "100 г",
+					"de": "100g"
+				},
+				{
+					"en": "by weight",
+					"ua": "на вагу",
+					"de": "nach Gewicht"
+				}
+			],
+			"fullDescription": {
+				"en": "Slow-cooked tender pork ribs glazed with a rich BBQ sauce. Sold by weight.",
+				"ua": "Повільно приготовлені ніжні свинні реберця в насиченому соусі барбекю. Продається на вагу.",
+				"de": "Langsam gegarte zarte Schweinerippchen mit reichhaltiger BBQ-Sauce. Verkauf nach Gewicht."
+			}
+		}
+	},
+	{
+		"slug": "river-trout-fillet-with-butter-and-caviar",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "River trout fillet with butter and caviar",
+				"ua": "Філе річкової форелі з топленим маслом та ікрою",
+				"de": "Flussforellenfilet mit Butter und Kaviar"
+			},
+			"description": {
+				"en": "River trout fillet with clarified butter and caviar.",
+				"ua": "Філе річкової форелі з топленим маслом та ікрою.",
+				"de": "Flussforellenfilet mit Butterschmalz und Kaviar."
+			},
+			"labels": [
+				{
+					"en": "130g",
+					"ua": "130 г",
+					"de": "130g"
+				}
+			],
+			"fullDescription": {
+				"en": "Delicate river trout fillet pan-fried in clarified butter and served with caviar.",
+				"ua": "Ніжне філе річкової форелі, обсмажене на топленому маслі та подане з ікрою.",
+				"de": "Zartes Flussforellenfilet in Butterschmalz gebraten und mit Kaviar serviert."
+			}
+		}
+	},
+	{
+		"slug": "carp-fillet-with-white-mushroom-sauce",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Carp fillet with white mushroom sauce",
+				"ua": "Філе коропа з соусом з білих грибів",
+				"de": "Karpfenfilet mit Steinpilzsauce"
+			},
+			"description": {
+				"en": "Carp fillet served with white mushroom sauce.",
+				"ua": "Філе коропа з соусом з білих грибів.",
+				"de": "Karpfenfilet serviert mit Steinpilzsauce."
+			},
+			"labels": [
+				{
+					"en": "150/150g",
+					"ua": "150/150 г",
+					"de": "150/150g"
+				}
+			],
+			"fullDescription": {
+				"en": "Tender carp fillet served with a creamy white mushroom sauce.",
+				"ua": "Ніжне філе коропа з кремовим соусом з білих грибів.",
+				"de": "Zartes Karpfenfilet mit cremiger Steinpilzsauce."
+			}
+		}
+	},
+	{
+		"slug": "salmon-in-basil-cream-sauce-with-zucchini",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Salmon in basil cream sauce with zucchini",
+				"ua": "Лосось у вершково-базиліковому соусі з цукіні",
+				"de": "Lachs in Basilikum-Sahnesauce mit Zucchini"
+			},
+			"description": {
+				"en": "Salmon fillet in basil cream sauce with zucchini.",
+				"ua": "Філе лосося у вершково-базиліковому соусі з цукіні.",
+				"de": "Lachsfilet in Basilikum-Sahnesauce mit Zucchini."
+			},
+			"labels": [
+				{
+					"en": "150/100g",
+					"ua": "150/100 г",
+					"de": "150/100g"
+				}
+			],
+			"fullDescription": {
+				"en": "Pan-seared salmon fillet in a fragrant basil cream sauce, served with grilled zucchini.",
+				"ua": "Обсмажене філе лосося в ароматному вершково-базиліковому соусі, подається з грильованим цукіні.",
+				"de": "Gebratenes Lachsfilet in aromatischer Basilikum-Sahnesauce mit gegrillten Zucchini."
+			}
+		}
+	},
+	{
+		"slug": "baked-vegetables",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Baked vegetables",
+				"ua": "Овочі запечені",
+				"de": "Gebackenes Gemüse"
+			},
+			"description": {
+				"en": "Seasonal vegetables oven-baked to perfection.",
+				"ua": "Сезонні овочі, запечені в духовці.",
+				"de": "Saisonales Gemüse im Ofen gebacken."
+			},
+			"labels": [
+				{
+					"en": "180g",
+					"ua": "180 г",
+					"de": "180g"
+				}
+			],
+			"fullDescription": {
+				"en": "Seasonal vegetables oven-baked with herbs and olive oil.",
+				"ua": "Сезонні овочі, запечені в духовці з травами та оливковою олією.",
+				"de": "Saisonales Gemüse im Ofen mit Kräutern und Olivenöl gebacken."
+			}
+		}
+	},
+	{
+		"slug": "french-fries",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "French fries",
+				"ua": "Картопля фрі",
+				"de": "Pommes frites"
+			},
+			"description": {
+				"en": "Classic golden crispy french fries.",
+				"ua": "Класична золотиста хрустка картопля фрі.",
+				"de": "Klassische goldene knusprige Pommes frites."
+			},
+			"labels": [
+				{
+					"en": "200/30g",
+					"ua": "200/30 г",
+					"de": "200/30g"
+				}
+			],
+			"fullDescription": {
+				"en": "Classic golden crispy french fries served with sauce.",
+				"ua": "Класична золотиста хрустка картопля фрі з соусом.",
+				"de": "Klassische goldene knusprige Pommes frites mit Sauce."
+			}
+		}
+	},
+	{
+		"slug": "baked-potato-with-rosemary",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Baked potato with rosemary",
+				"ua": "Картопля печена з розмарином",
+				"de": "Ofenkartoffel mit Rosmarin"
+			},
+			"description": {
+				"en": "Oven-baked potato with rosemary.",
+				"ua": "Запечена в духовці картопля з розмарином.",
+				"de": "Im Ofen gebackene Kartoffel mit Rosmarin."
+			},
+			"labels": [
+				{
+					"en": "220g",
+					"ua": "220 г",
+					"de": "220g"
+				}
+			],
+			"fullDescription": {
+				"en": "Tender oven-baked potato seasoned with rosemary and olive oil.",
+				"ua": "Ніжна запечена картопля, приправлена розмарином та оливковою олією.",
+				"de": "Zarte Ofenkartoffel gewürzt mit Rosmarin und Olivenöl."
+			}
+		}
+	},
+	{
+		"slug": "potato-celery-puree",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Potato-celery puree",
+				"ua": "Картопляно-селерове пюре",
+				"de": "Kartoffel-Sellerie-Püree"
+			},
+			"description": {
+				"en": "Creamy potato and celery puree.",
+				"ua": "Кремове картопляно-селерове пюре.",
+				"de": "Cremiges Kartoffel-Sellerie-Püree."
+			},
+			"labels": [
+				{
+					"en": "200g",
+					"ua": "200 г",
+					"de": "200g"
+				}
+			],
+			"fullDescription": {
+				"en": "Velvety smooth potato and celery puree with butter and cream.",
+				"ua": "Оксамитово гладке картопляно-селерове пюре з маслом та вершками.",
+				"de": "Samtig glattes Kartoffel-Sellerie-Püree mit Butter und Sahne."
+			}
+		}
+	},
+	{
+		"slug": "banosh-with-brynza",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Banosh with brynza",
+				"ua": "Банош з бринзою",
+				"de": "Banosh mit Brynza"
+			},
+			"description": {
+				"en": "Traditional Hutsul cornmeal porridge with brynza cheese.",
+				"ua": "Традиційна гуцульська кукурудзяна каша з бринзою.",
+				"de": "Traditioneller Hutsulischer Maisbrei mit Brynza-Käse."
+			},
+			"labels": [
+				{
+					"en": "200g",
+					"ua": "200 г",
+					"de": "200g"
+				}
+			],
+			"fullDescription": {
+				"en": "Traditional Hutsul banosh — creamy cornmeal cooked in sour cream, topped with brynza cheese.",
+				"ua": "Традиційний гуцульський банош — кремова кукурудзяна каша на сметані, подається з бринзою.",
+				"de": "Traditioneller Hutsulischer Banosh — cremiger Maisbrei in Sauerrahm, mit Brynza-Käse."
+			}
+		}
+	},
+	{
+		"slug": "esterhazy-cake",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Esterházy cake",
+				"ua": "Торт «Естерхазі»",
+				"de": "Esterházy-Torte"
+			},
+			"description": {
+				"en": "Classic Hungarian layered almond meringue cake.",
+				"ua": "Класичний угорський торт з мигдальним безе.",
+				"de": "Klassische ungarische Mandelbaiser-Torte."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Classic Hungarian Esterházy torte — layers of almond meringue with vanilla buttercream.",
+				"ua": "Класичний угорський торт Естерхазі — шари мигдального безе з ванільним масляним кремом.",
+				"de": "Klassische ungarische Esterházy-Torte — Schichten aus Mandelbaiser mit Vanillebuttercreme."
+			}
+		}
+	},
+	{
+		"slug": "medivnyk-cake",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Medivnyk cake",
+				"ua": "Торт «Медівник»",
+				"de": "Mediwnjk-Kuchen"
+			},
+			"description": {
+				"en": "Traditional Ukrainian honey cake.",
+				"ua": "Традиційний український медовий торт.",
+				"de": "Traditioneller ukrainischer Honigkuchen."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Traditional Ukrainian medivnyk — soft honey cake with layers of cream.",
+				"ua": "Традиційний український медівник — ніжний медовий торт з шарами крему.",
+				"de": "Traditioneller ukrainischer Mediwnjk — weicher Honigkuchen mit Cremeschichten."
+			}
+		}
+	},
+	{
+		"slug": "clafoutis-with-cherry-and-white-chocolate",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Clafoutis with cherry and white chocolate",
+				"ua": "Клафуті з вишнею і білим шоколадом",
+				"de": "Clafoutis mit Kirschen und weißer Schokolade"
+			},
+			"description": {
+				"en": "French clafoutis with cherry and white chocolate.",
+				"ua": "Французький клафуті з вишнею та білим шоколадом.",
+				"de": "Französisches Clafoutis mit Kirschen und weißer Schokolade."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Soft French-style clafoutis baked with cherries and white chocolate.",
+				"ua": "Ніжний клафуті у французькому стилі, запечений з вишнею та білим шоколадом.",
+				"de": "Weiches Clafoutis im französischen Stil, gebacken mit Kirschen und weißer Schokolade."
+			}
+		}
+	},
+	{
+		"slug": "apple-strudel-with-ice-cream",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Apple strudel with ice cream",
+				"ua": "Штрудель з яблуками та морозивом",
+				"de": "Apfelstrudel mit Eis"
+			},
+			"description": {
+				"en": "Warm apple strudel served with a scoop of ice cream.",
+				"ua": "Теплий яблучний штрудель з кулькою морозива.",
+				"de": "Warmer Apfelstrudel mit einer Kugel Eis."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Warm flaky apple strudel with cinnamon filling, served with a scoop of vanilla ice cream.",
+				"ua": "Теплий листковий яблучний штрудель з начинкою з кориці, поданий з кулькою ванільного морозива.",
+				"de": "Warmer blättriger Apfelstrudel mit Zimtfüllung, serviert mit einer Kugel Vanilleeis."
+			}
+		}
+	},
+	{
+		"slug": "fruit-sorbet",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Fruit sorbet",
+				"ua": "Сорбет фруктовий",
+				"de": "Fruchtsorbet"
+			},
+			"description": {
+				"en": "Refreshing fruit sorbet.",
+				"ua": "Освіжаючий фруктовий сорбет.",
+				"de": "Erfrischendes Fruchtsorbet."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Light and refreshing fruit sorbet — a perfect light ending to the meal.",
+				"ua": "Легкий та освіжаючий фруктовий сорбет — ідеальне легке завершення трапези.",
+				"de": "Leichtes und erfrischendes Fruchtsorbet — ein perfekter leichter Abschluss des Essens."
+			}
+		}
+	},
+	{
+		"slug": "lemonade-1l",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Lemonade",
+				"ua": "Лимонад",
+				"de": "Limonade"
+			},
+			"description": {
+				"en": "House lemonade.",
+				"ua": "Домашній лимонад.",
+				"de": "Hauslimonade."
+			},
+			"labels": [
+				{
+					"en": "1L",
+					"ua": "1 л",
+					"de": "1L"
+				}
+			],
+			"fullDescription": {
+				"en": "Freshly prepared house lemonade.",
+				"ua": "Свіжоприготований домашній лимонад.",
+				"de": "Frisch zubereitete Hauslimonade."
+			}
+		}
+	},
+	{
+		"slug": "fruit-juice",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Fruit juice",
+				"ua": "Сік фруктовий",
+				"de": "Fruchtsaft"
+			},
+			"description": {
+				"en": "Fresh fruit juice.",
+				"ua": "Свіжий фруктовий сік.",
+				"de": "Frischer Fruchtsaft."
+			},
+			"labels": [
+				{
+					"en": "250ml",
+					"ua": "250 мл",
+					"de": "250ml"
+				}
+			],
+			"fullDescription": {
+				"en": "Fresh fruit juice.",
+				"ua": "Свіжий фруктовий сік.",
+				"de": "Frischer Fruchtsaft."
+			}
+		}
+	},
+	{
+		"slug": "vichy-catalan-05l",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Vichy Catalan 0.5L",
+				"ua": "Вода «Vichy Catalan» 0,5л",
+				"de": "Vichy Catalan 0,5L"
+			},
+			"description": {
+				"en": "Sparkling mineral water from Spain.",
+				"ua": "Слабогазована мінеральна вода з Іспанії.",
+				"de": "Sprudelndes Mineralwasser aus Spanien."
+			},
+			"labels": [
+				{
+					"en": "0.5L",
+					"ua": "0,5 л",
+					"de": "0,5L"
+				}
+			],
+			"fullDescription": {
+				"en": "Vichy Catalan lightly sparkling mineral water, 0.5L.",
+				"ua": "Слабогазована мінеральна вода Vichy Catalan, 0,5 л.",
+				"de": "Vichy Catalan leicht sprudelndes Mineralwasser, 0,5L."
+			}
+		}
+	},
+	{
+		"slug": "vichy-catalan-1l",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Vichy Catalan 1L",
+				"ua": "Вода «Vichy Catalan» 1л",
+				"de": "Vichy Catalan 1L"
+			},
+			"description": {
+				"en": "Sparkling mineral water from Spain.",
+				"ua": "Слабогазована мінеральна вода з Іспанії.",
+				"de": "Sprudelndes Mineralwasser aus Spanien."
+			},
+			"labels": [
+				{
+					"en": "1L",
+					"ua": "1 л",
+					"de": "1L"
+				}
+			],
+			"fullDescription": {
+				"en": "Vichy Catalan lightly sparkling mineral water, 1L.",
+				"ua": "Слабогазована мінеральна вода Vichy Catalan, 1 л.",
+				"de": "Vichy Catalan leicht sprudelndes Mineralwasser, 1L."
+			}
+		}
+	},
+	{
+		"slug": "borjomi-05l",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Borjomi 0.5L",
+				"ua": "Вода «Боржомі» 0,5л",
+				"de": "Borjomi 0,5L"
+			},
+			"description": {
+				"en": "Georgian sparkling mineral water.",
+				"ua": "Грузинська газована мінеральна вода.",
+				"de": "Georgisches Mineralwasser."
+			},
+			"labels": [
+				{
+					"en": "0.5L",
+					"ua": "0,5 л",
+					"de": "0,5L"
+				}
+			],
+			"fullDescription": {
+				"en": "Borjomi sparkling Georgian mineral water, 0.5L.",
+				"ua": "Газована грузинська мінеральна вода Боржомі, 0,5 л.",
+				"de": "Borjomi sprudelndes georgisches Mineralwasser, 0,5L."
+			}
+		}
+	},
+	{
+		"slug": "morshynska-05l",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Morshynska 0.5L",
+				"ua": "Вода «Моршинська» 0,5л",
+				"de": "Morshynska 0,5L"
+			},
+			"description": {
+				"en": "Still or sparkling mineral water.",
+				"ua": "Негазована або слабогазована мінеральна вода.",
+				"de": "Stilles oder leicht sprudelndes Mineralwasser."
+			},
+			"labels": [
+				{
+					"en": "0.5L",
+					"ua": "0,5 л",
+					"de": "0,5L"
+				}
+			],
+			"fullDescription": {
+				"en": "Morshynska natural mineral water, still or sparkling, 0.5L.",
+				"ua": "Природна мінеральна вода Моршинська, негазована або слабогазована, 0,5 л.",
+				"de": "Morshynska Mineralwasser, still oder leicht sprudelnd, 0,5L."
+			}
+		}
+	},
+	{
+		"slug": "coca-cola-pepsi",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Coca-Cola / Pepsi",
+				"ua": "Кока-кола / Пепсі",
+				"de": "Coca-Cola / Pepsi"
+			},
+			"description": {
+				"en": "Soft drink.",
+				"ua": "Газований напій.",
+				"de": "Erfrischungsgetränk."
+			},
+			"labels": [
+				{
+					"en": "0.25L",
+					"ua": "0,25 л",
+					"de": "0,25L"
+				}
+			],
+			"fullDescription": {
+				"en": "Chilled Coca-Cola or Pepsi, 0.25L.",
+				"ua": "Охолоджена Кока-кола або Пепсі, 0,25 л.",
+				"de": "Gekühlte Coca-Cola oder Pepsi, 0,25L."
+			}
+		}
+	},
+	{
+		"slug": "non-alcoholic-mojito",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Non-alcoholic Mojito",
+				"ua": "Коктейль б/а «Мохіто»",
+				"de": "Alkoholfreier Mojito"
+			},
+			"description": {
+				"en": "Refreshing non-alcoholic mojito.",
+				"ua": "Освіжаючий безалкогольний мохіто.",
+				"de": "Erfrischender alkoholfreier Mojito."
+			},
+			"labels": [
+				{
+					"en": "300ml",
+					"ua": "300 мл",
+					"de": "300ml"
+				}
+			],
+			"fullDescription": {
+				"en": "Non-alcoholic mojito with fresh mint, lime and sparkling water.",
+				"ua": "Безалкогольний мохіто зі свіжою мятою, лаймом та газованою водою.",
+				"de": "Alkoholfreier Mojito mit frischer Minze, Limette und Sprudelwasser."
+			}
+		}
+	},
+	{
+		"slug": "citrus-lemonade",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Citrus lemonade",
+				"ua": "Лимонад цитрусовий",
+				"de": "Zitrus-Limonade"
+			},
+			"description": {
+				"en": "Freshly made citrus lemonade.",
+				"ua": "Свіжоприготований цитрусовий лимонад.",
+				"de": "Frisch zubereitete Zitrus-Limonade."
+			},
+			"labels": [
+				{
+					"en": "300ml",
+					"ua": "300 мл",
+					"de": "300ml"
+				}
+			],
+			"fullDescription": {
+				"en": "Citrus lemonade with lemon, orange and lime.",
+				"ua": "Цитрусовий лимонад з лимоном, апельсином та лаймом.",
+				"de": "Zitrus-Limonade mit Zitrone, Orange und Limette."
+			}
+		}
+	},
+	{
+		"slug": "raspberry-lemonade",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Raspberry lemonade",
+				"ua": "Лимонад малиновий",
+				"de": "Himbeer-Limonade"
+			},
+			"description": {
+				"en": "Freshly made raspberry lemonade.",
+				"ua": "Свіжоприготований малиновий лимонад.",
+				"de": "Frisch zubereitete Himbeer-Limonade."
+			},
+			"labels": [
+				{
+					"en": "300ml",
+					"ua": "300 мл",
+					"de": "300ml"
+				}
+			],
+			"fullDescription": {
+				"en": "Raspberry lemonade with fresh raspberries and mint.",
+				"ua": "Малиновий лимонад зі свіжою малиною та мятою.",
+				"de": "Himbeer-Limonade mit frischen Himbeeren und Minze."
+			}
+		}
+	},
+	{
+		"slug": "cucumber-lemonade",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Cucumber lemonade",
+				"ua": "Лимонад огірковий",
+				"de": "Gurken-Limonade"
+			},
+			"description": {
+				"en": "Refreshing cucumber lemonade.",
+				"ua": "Освіжаючий огірковий лимонад.",
+				"de": "Erfrischende Gurken-Limonade."
+			},
+			"labels": [
+				{
+					"en": "300ml",
+					"ua": "300 мл",
+					"de": "300ml"
+				}
+			],
+			"fullDescription": {
+				"en": "Cucumber lemonade with fresh cucumber and mint.",
+				"ua": "Огірковий лимонад зі свіжим огірком та мятою.",
+				"de": "Gurken-Limonade mit frischer Gurke und Minze."
+			}
+		}
+	},
+	{
+		"slug": "espresso-americano",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Espresso / Americano",
+				"ua": "Кава еспресо/американо",
+				"de": "Espresso / Americano"
+			},
+			"description": {
+				"en": "Classic espresso or americano.",
+				"ua": "Класичний еспресо або американо.",
+				"de": "Klassischer Espresso oder Americano."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Classic espresso or americano — rich and aromatic.",
+				"ua": "Класичний еспресо або американо — насичений та ароматний.",
+				"de": "Klassischer Espresso oder Americano — kräftig und aromatisch."
+			}
+		}
+	},
+	{
+		"slug": "decaf-coffee",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Decaf coffee",
+				"ua": "Кава без кофеїну",
+				"de": "Entkoffeinierter Kaffee"
+			},
+			"description": {
+				"en": "Coffee without caffeine.",
+				"ua": "Кава без кофеїну.",
+				"de": "Kaffee ohne Koffein."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Smooth decaffeinated coffee.",
+				"ua": "Мягка кава без кофеїну.",
+				"de": "Weicher entkoffeinierter Kaffee."
+			}
+		}
+	},
+	{
+		"slug": "espresso-with-milk",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Espresso with milk",
+				"ua": "Кава еспресо з молоком",
+				"de": "Espresso mit Milch"
+			},
+			"description": {
+				"en": "Espresso served with warm milk.",
+				"ua": "Еспресо з теплим молоком.",
+				"de": "Espresso mit warmer Milch."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Espresso served with warm milk.",
+				"ua": "Еспресо, поданий з теплим молоком.",
+				"de": "Espresso serviert mit warmer Milch."
+			}
+		}
+	},
+	{
+		"slug": "coffee-glace",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Coffee Glace",
+				"ua": "Кава «Глясе»",
+				"de": "Kaffee Glace"
+			},
+			"description": {
+				"en": "Espresso with vanilla ice cream.",
+				"ua": "Еспресо з ванільним морозивом.",
+				"de": "Espresso mit Vanilleeis."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Rich espresso with a scoop of vanilla ice cream.",
+				"ua": "Насичений еспресо з кулькою ванільного морозива.",
+				"de": "Kräftiger Espresso mit einer Kugel Vanilleeis."
+			}
+		}
+	},
+	{
+		"slug": "latte",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Latte",
+				"ua": "Лате",
+				"de": "Latte"
+			},
+			"description": {
+				"en": "Espresso with steamed milk.",
+				"ua": "Еспресо з великою кількістю молока.",
+				"de": "Espresso mit viel Milch."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Smooth latte with espresso and velvety steamed milk.",
+				"ua": "Ніжний лате з еспресо та оксамитовим молоком.",
+				"de": "Sanfter Latte mit Espresso und samtig aufgeschäumter Milch."
+			}
+		}
+	},
+	{
+		"slug": "brewed-tea",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Brewed tea (teapot 450ml)",
+				"ua": "Чай заварний (чайник 450мл)",
+				"de": "Aufgebrühter Tee (450ml)"
+			},
+			"description": {
+				"en": "Freshly brewed loose-leaf tea.",
+				"ua": "Свіжозаварений листовий чай.",
+				"de": "Frisch aufgebrühter Blatttee."
+			},
+			"labels": [
+				{
+					"en": "450ml",
+					"ua": "450 мл",
+					"de": "450ml"
+				}
+			],
+			"fullDescription": {
+				"en": "Freshly brewed loose-leaf tea in a teapot.",
+				"ua": "Свіжозаварений листовий чай у чайнику (450мл).",
+				"de": "Frisch aufgebrühter Blatttee in einer Kanne."
+			}
+		}
+	},
+	{
+		"slug": "sea-buckthorn-tea",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Sea buckthorn tea",
+				"ua": "Чай обліпиховий",
+				"de": "Sanddorntee"
+			},
+			"description": {
+				"en": "Warm sea buckthorn tea.",
+				"ua": "Теплий обліпиховий чай.",
+				"de": "Warmer Sanddorntee."
+			},
+			"labels": [],
+			"fullDescription": {
+				"en": "Warm tangy sea buckthorn tea, rich in vitamins.",
+				"ua": "Теплий терпкий обліпиховий чай, багатий на вітаміни.",
+				"de": "Warmer herb-süßer Sanddorntee, reich an Vitaminen."
+			}
+		}
+	},
+	{
+		"slug": "hennessy-vs",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Hennessy VS",
+				"ua": "Коньяк «Hennessy VS»",
+				"de": "Cognac «Hennessy VS»"
+			},
+			"description": {
+				"en": "Cognac Hennessy VS.",
+				"ua": "Коньяк Hennessy VS.",
+				"de": "Cognac Hennessy VS."
+			},
+			"labels": [
+				{
+					"en": "50g",
+					"ua": "50g",
+					"de": "50g"
+				}
+			],
+			"fullDescription": {
+				"en": "Hennessy VS cognac — smooth and balanced with notes of fruit and oak.",
+				"ua": "Hennessy VS — м'який та збалансований коньяк з нотами фруктів та дуба.",
+				"de": "Hennessy VS — weicher und ausgewogener Cognac mit Frucht- und Eichennoten."
+			}
+		}
+	},
+	{
+		"slug": "hennessy-vsop",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Hennessy VSOP",
+				"ua": "Коньяк «Hennessy VSOP»",
+				"de": "Cognac «Hennessy VSOP»"
+			},
+			"description": {
+				"en": "Cognac Hennessy VSOP.",
+				"ua": "Коньяк Hennessy VSOP.",
+				"de": "Cognac Hennessy VSOP."
+			},
+			"labels": [
+				{
+					"en": "50g",
+					"ua": "50g",
+					"de": "50g"
+				}
+			],
+			"fullDescription": {
+				"en": "Hennessy VSOP — rich and elegant cognac aged in French oak barrels.",
+				"ua": "Hennessy VSOP — багатий та елегантний коньяк, витриманий у французьких дубових бочках.",
+				"de": "Hennessy VSOP — reicher und eleganter Cognac, in französischen Eichenfässern gereift."
+			}
+		}
+	},
+	{
+		"slug": "metaxa-cognac",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Metaxa",
+				"ua": "Метакса",
+				"de": "Metaxa"
+			},
+			"description": {
+				"en": "Greek brandy Metaxa.",
+				"ua": "Грецький бренді Metaxa.",
+				"de": "Griechischer Brandy Metaxa."
+			},
+			"labels": [
+				{
+					"en": "50g",
+					"ua": "50g",
+					"de": "50g"
+				}
+			],
+			"fullDescription": {
+				"en": "Metaxa — unique Greek spirit blending aged wines and herbs.",
+				"ua": "Metaxa — унікальний грецький спирт, що поєднує витримані вина та трави.",
+				"de": "Metaxa — einzigartiger griechischer Geist aus gereiften Weinen und Kräutern."
+			}
+		}
+	},
+	{
+		"slug": "uzhhorod-ks-cognac",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Uzhhorod KS",
+				"ua": "Коньяк «Ужгород КС»",
+				"de": "Cognac «Uzhhorod KS»"
+			},
+			"description": {
+				"en": "Ukrainian cognac Uzhhorod KS.",
+				"ua": "Український коньяк «Ужгород КС».",
+				"de": "Ukrainischer Cognac «Uzhhorod KS»."
+			},
+			"labels": [
+				{
+					"en": "50g",
+					"ua": "50g",
+					"de": "50g"
+				}
+			],
+			"fullDescription": {
+				"en": "Ukrainian cognac Uzhhorod KS — smooth domestic cognac.",
+				"ua": "Український коньяк «Ужгород КС» — м'який вітчизняний коньяк.",
+				"de": "Ukrainischer Cognac «Uzhhorod KS» — weicher einheimischer Cognac."
+			}
+		}
+	},
+	{
+		"slug": "moet-chandon-imperial",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Moët & Chandon Impérial",
+				"ua": "Moet & Chandon Impérial",
+				"de": "Moët & Chandon Impérial"
+			},
+			"description": {
+				"en": "Brut champagne, 0.75L.",
+				"ua": "Брют шампанське, 0,75л.",
+				"de": "Brut Champagner, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Moët & Chandon Impérial — iconic brut champagne from Champagne, France.",
+				"ua": "Moët & Chandon Impérial — культовий брют з Шампані, Франція.",
+				"de": "Moët & Chandon Impérial — ikonischer Brut-Champagner aus der Champagne, Frankreich."
+			}
+		}
+	},
+	{
+		"slug": "asti-martini",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Asti Martini",
+				"ua": "Асті Мартіні",
+				"de": "Asti Martini"
+			},
+			"description": {
+				"en": "Prosecco, sweet, 0.75L.",
+				"ua": "Просеко, солодке, 0,75л.",
+				"de": "Prosecco, süß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Asti Martini — sweet Italian sparkling wine, light and fruity.",
+				"ua": "Asti Martini — солодке італійське ігристе вино, легке та фруктове.",
+				"de": "Asti Martini — süßes italienisches Schaumwein, leicht und fruchtig."
+			}
+		}
+	},
+	{
+		"slug": "artemivske-sparkling",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Артемівське",
+				"ua": "Артемівське",
+				"de": "Artemiwske"
+			},
+			"description": {
+				"en": "White, semi-sweet, brut, 0.75L.",
+				"ua": "Біле, напівсолодке, брют, 0,75л.",
+				"de": "Weiß, halbsüß, Brut, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Артемівське sparkling wine — Ukrainian sparkling wine, white semi-sweet brut.",
+				"ua": "Артемівське — українське ігристе вино, біле напівсолодке брют.",
+				"de": "Artemiwske Schaumwein — ukrainischer Schaumwein, weiß halbsüß Brut."
+			}
+		}
+	},
+	{
+		"slug": "lambrusco",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Lambrusco",
+				"ua": "Ламбруско",
+				"de": "Lambrusco"
+			},
+			"description": {
+				"en": "Bianco / Rosato, 0.75L.",
+				"ua": "Бьянко / Розато, 0,75л.",
+				"de": "Bianco / Rosato, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Lambrusco — Italian sparkling wine, available in white (bianco) and rosé (rosato).",
+				"ua": "Lambrusco — італійське ігристе вино, доступне у білому (bianco) та рожевому (rosato) варіантах.",
+				"de": "Lambrusco — italienischer Schaumwein, erhältlich als Weiß (bianco) und Rosé (rosato)."
+			}
+		}
+	},
+	{
+		"slug": "prosecco-frizzante",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Prosecco Frizzante",
+				"ua": "Просеко Фріцанте",
+				"de": "Prosecco Frizzante"
+			},
+			"description": {
+				"en": "White, dry, 0.75L.",
+				"ua": "Біле, сухе, 0,75л.",
+				"de": "Weiß, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Prosecco Frizzante — lightly sparkling Italian white wine, dry and refreshing.",
+				"ua": "Prosecco Frizzante — слабоігристе італійське біле сухе вино, свіже та освіжаюче.",
+				"de": "Prosecco Frizzante — leicht prickelnder italienischer Weißwein, trocken und erfrischend."
+			}
+		}
+	},
+	{
+		"slug": "traminer-chyzay",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Traminer «Chyzay»",
+				"ua": "Вино «Трамінер» (Чизай)",
+				"de": "Wein «Traminer» (Chyzay)"
+			},
+			"description": {
+				"en": "White, dry, 0.75L.",
+				"ua": "Біле, сухе, 0,75л.",
+				"de": "Weiß, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Traminer from Chyzay winery — aromatic white dry wine from Zakarpattia.",
+				"ua": "Трамінер від виноробні Чизай — ароматне біле сухе вино із Закарпаття.",
+				"de": "Traminer vom Weingut Chyzay — aromatischer weißer Trockenwein aus Zakarpattia."
+			}
+		}
+	},
+	{
+		"slug": "red-blend-chyzay",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Red Blend «Chyzay»",
+				"ua": "Вино «Red Blend» (Чизай)",
+				"de": "Wein «Red Blend» (Chyzay)"
+			},
+			"description": {
+				"en": "Red, semi-sweet, 0.75L.",
+				"ua": "Червоне, напівсолодке, 0,75л.",
+				"de": "Rot, halbsüß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Red Blend from Chyzay winery — a balanced red semi-sweet wine blend.",
+				"ua": "Red Blend від виноробні Чизай — збалансований купаж червоного напівсолодкого вина.",
+				"de": "Red Blend vom Weingut Chyzay — ausgewogene Cuvée aus rotem halbsüßem Wein."
+			}
+		}
+	},
+	{
+		"slug": "pinot-blanc-chyzay",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Pinot Blanc «Chyzay»",
+				"ua": "Вино «Піно Блан» (Чизай)",
+				"de": "Wein «Pinot Blanc» (Chyzay)"
+			},
+			"description": {
+				"en": "White, semi-sweet, 0.75L.",
+				"ua": "Біле, напівсолодке, 0,75л.",
+				"de": "Weiß, halbsüß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Pinot Blanc from Chyzay winery — elegant white semi-sweet wine.",
+				"ua": "Піно Блан від виноробні Чизай — елегантне біле напівсолодке вино.",
+				"de": "Pinot Blanc vom Weingut Chyzay — eleganter weißer halbsüßer Wein."
+			}
+		}
+	},
+	{
+		"slug": "pinot-noir-chyzay",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Pinot Noir «Chyzay»",
+				"ua": "Вино «Піно Нуар» (Чизай)",
+				"de": "Wein «Pinot Noir» (Chyzay)"
+			},
+			"description": {
+				"en": "Red, semi-sweet, 0.75L.",
+				"ua": "Червоне, напівсолодке, 0,75л.",
+				"de": "Rot, halbsüß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Pinot Noir from Chyzay winery — light red semi-sweet wine with berry notes.",
+				"ua": "Піно Нуар від виноробні Чизай — легке червоне напівсолодке вино з ягідними нотами.",
+				"de": "Pinot Noir vom Weingut Chyzay — leichter roter halbsüßer Wein mit Beerennoten."
+			}
+		}
+	},
+	{
+		"slug": "alazani-valley",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Alazani Valley",
+				"ua": "Вино «Алазанська долина»",
+				"de": "Wein «Alasani-Tal»"
+			},
+			"description": {
+				"en": "Red / White, semi-sweet, 0.75L.",
+				"ua": "Червоне / Біле, напівсолодке, 0,75л.",
+				"de": "Rot / Weiß, halbsüß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Alazani Valley — classic Georgian semi-sweet wine, available in red and white.",
+				"ua": "Алазанська долина — класичне грузинське напівсолодке вино, червоне та біле.",
+				"de": "Alasani-Tal — klassischer georgischer halbsüßer Wein, rot und weiß."
+			}
+		}
+	},
+	{
+		"slug": "kindzmarauli",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Kindzmarauli",
+				"ua": "Вино «Кіндзмараулі»",
+				"de": "Wein «Kindsmarauli»"
+			},
+			"description": {
+				"en": "Red, semi-sweet, 0.75L.",
+				"ua": "Червоне, напівсолодке, 0,75л.",
+				"de": "Rot, halbsüß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Kindzmarauli — iconic Georgian red semi-sweet wine with rich berry flavour.",
+				"ua": "Кіндзмараулі — культове грузинське червоне напівсолодке вино з насиченим ягідним смаком.",
+				"de": "Kindsmarauli — ikonischer georgischer roter halbsüßer Wein mit reichem Beerengeschmack."
+			}
+		}
+	},
+	{
+		"slug": "mukuzani",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Mukuzani",
+				"ua": "Вино «Мукузані»",
+				"de": "Wein «Mukusani»"
+			},
+			"description": {
+				"en": "Red, dry, 0.75L.",
+				"ua": "Червоне, сухе, 0,75л.",
+				"de": "Rot, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Mukuzani — full-bodied Georgian red dry wine aged in oak.",
+				"ua": "Мукузані — повнотілий грузинський червоний сухий вино, витриманий у дубі.",
+				"de": "Mukusani — vollmundiger georgischer roter Trockenwein, in Eiche gereift."
+			}
+		}
+	},
+	{
+		"slug": "tsinandali",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Tsinandali",
+				"ua": "Вино «Цинандалі»",
+				"de": "Wein «Tsinandali»"
+			},
+			"description": {
+				"en": "White, dry, 0.75L.",
+				"ua": "Біле, сухе, 0,75л.",
+				"de": "Weiß, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Tsinandali — classic Georgian white dry wine, crisp and elegant.",
+				"ua": "Цинандалі — класичне грузинське біле сухе вино, свіже та елегантне.",
+				"de": "Tsinandali — klassischer georgischer weißer Trockenwein, frisch und elegant."
+			}
+		}
+	},
+	{
+		"slug": "big-top-white-zinfandel",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "The Big Top White Zinfandel",
+				"ua": "Вино «The Big Top White Zinfandel»",
+				"de": "Wein «The Big Top White Zinfandel»"
+			},
+			"description": {
+				"en": "Rosé, semi-sweet, 0.75L.",
+				"ua": "Рожеве, напівсолодке, 0,75л.",
+				"de": "Rosé, halbsüß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "The Big Top White Zinfandel — American rosé semi-sweet wine, fresh and fruity.",
+				"ua": "The Big Top White Zinfandel — американське рожеве напівсолодке вино, свіже та фруктове.",
+				"de": "The Big Top White Zinfandel — amerikanischer Rosé halbsüßer Wein, frisch und fruchtig."
+			}
+		}
+	},
+	{
+		"slug": "barbera-appassimento",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Barbera Appassimento",
+				"ua": "Вино «Barbera Appassimento»",
+				"de": "Wein «Barbera Appassimento»"
+			},
+			"description": {
+				"en": "Red, dry, 0.75L.",
+				"ua": "Червоне, сухе, 0,75л.",
+				"de": "Rot, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Barbera Appassimento — rich Italian red dry wine made from partially dried grapes.",
+				"ua": "Barbera Appassimento — насичений італійський червоний сухий вино з частково завяленого винограду.",
+				"de": "Barbera Appassimento — reichhaltiger italienischer roter Trockenwein aus teilweise getrockneten Trauben."
+			}
+		}
+	},
+	{
+		"slug": "barbaresco-il-pozzo",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "IL Pozzo Barbaresco",
+				"ua": "Вино «IL Pozzo Barbaresco»",
+				"de": "Wein «IL Pozzo Barbaresco»"
+			},
+			"description": {
+				"en": "Red, dry, 0.75L.",
+				"ua": "Червоне, сухе, 0,75л.",
+				"de": "Rot, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "IL Pozzo Barbaresco — prestigious Italian red dry wine from Piedmont.",
+				"ua": "IL Pozzo Barbaresco — престижне італійське червоне сухе вино з П'ємонту.",
+				"de": "IL Pozzo Barbaresco — prestigeträchtiger italienischer roter Trockenwein aus dem Piemont."
+			}
+		}
+	},
+	{
+		"slug": "cabernet-sauvignon-camden-park",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Cabernet Sauvignon Camden Park",
+				"ua": "Вино «Cabernet Sauvignon Camden Park»",
+				"de": "Wein «Cabernet Sauvignon Camden Park»"
+			},
+			"description": {
+				"en": "Red, dry, 0.75L.",
+				"ua": "Червоне, сухе, 0,75л.",
+				"de": "Rot, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Cabernet Sauvignon Camden Park — Australian red dry wine with blackcurrant notes.",
+				"ua": "Cabernet Sauvignon Camden Park — австралійський червоний сухий вино з нотами чорної смородини.",
+				"de": "Cabernet Sauvignon Camden Park — australischer roter Trockenwein mit schwarzen Johannisbeernoten."
+			}
+		}
+	},
+	{
+		"slug": "chardonnay-camden-park",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Chardonnay Camden Park",
+				"ua": "Вино «Chardonnay Camden Park»",
+				"de": "Wein «Chardonnay Camden Park»"
+			},
+			"description": {
+				"en": "White, dry, 0.75L.",
+				"ua": "Біле, сухе, 0,75л.",
+				"de": "Weiß, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Chardonnay Camden Park — crisp Australian white dry wine with citrus notes.",
+				"ua": "Chardonnay Camden Park — свіже австралійське біле сухе вино з цитрусовими нотами.",
+				"de": "Chardonnay Camden Park — frischer australischer weißer Trockenwein mit Zitrusnoten."
+			}
+		}
+	},
+	{
+		"slug": "yellow-tail-muscat",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Yellow Tail Muscat",
+				"ua": "Вино «Yellow Tail Muscat»",
+				"de": "Wein «Yellow Tail Muscat»"
+			},
+			"description": {
+				"en": "Rosé, semi-sweet, 0.75L.",
+				"ua": "Рожеве, напівсолодке, 0,75л.",
+				"de": "Rosé, halbsüß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Yellow Tail Muscat — sweet Australian rosé wine with floral and grape aromas.",
+				"ua": "Yellow Tail Muscat — солодке австралійське рожеве вино з квітковими та виноградними ароматами.",
+				"de": "Yellow Tail Muscat — süßer australischer Roséwein mit blumigen und Traubennoten."
+			}
+		}
+	},
+	{
+		"slug": "rosado-don-simon",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Rosado Don Simon",
+				"ua": "Вино «Rosado Don Simon»",
+				"de": "Wein «Rosado Don Simon»"
+			},
+			"description": {
+				"en": "Rosé, dry, 0.75L.",
+				"ua": "Рожеве, сухе, 0,75л.",
+				"de": "Rosé, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Rosado Don Simon — Spanish rosé dry wine, light and refreshing.",
+				"ua": "Rosado Don Simon — іспанське рожеве сухе вино, легке та освіжаюче.",
+				"de": "Rosado Don Simon — spanischer Rosé-Trockenwein, leicht und erfrischend."
+			}
+		}
+	},
+	{
+		"slug": "tempranillo-don-simon",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Tempranillo Don Simon",
+				"ua": "Вино «Tempranillo Don Simon»",
+				"de": "Wein «Tempranillo Don Simon»"
+			},
+			"description": {
+				"en": "Red, dry, 0.75L.",
+				"ua": "Червоне, сухе, 0,75л.",
+				"de": "Rot, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Tempranillo Don Simon — Spanish red dry wine with cherry and vanilla notes.",
+				"ua": "Tempranillo Don Simon — іспанське червоне сухе вино з вишневими та ванільними нотами.",
+				"de": "Tempranillo Don Simon — spanischer roter Trockenwein mit Kirsch- und Vanillenoten."
+			}
+		}
+	},
+	{
+		"slug": "don-simon-blanco",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Don Simon Blanco",
+				"ua": "Вино «Don Simon Blanco»",
+				"de": "Wein «Don Simon Blanco»"
+			},
+			"description": {
+				"en": "White, dry, 0.75L.",
+				"ua": "Біле, сухе, 0,75л.",
+				"de": "Weiß, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Don Simon Blanco — Spanish white dry wine, crisp and clean.",
+				"ua": "Don Simon Blanco — іспанське біле сухе вино, свіже та чисте.",
+				"de": "Don Simon Blanco — spanischer weißer Trockenwein, frisch und klar."
+			}
+		}
+	},
+	{
+		"slug": "riesling-peter-nicolay",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Riesling Peter Nicolay",
+				"ua": "Вино «Riesling Peter Nicolay»",
+				"de": "Wein «Riesling Peter Nicolay»"
+			},
+			"description": {
+				"en": "White, semi-dry, 0.75L.",
+				"ua": "Біле, напівсухе, 0,75л.",
+				"de": "Weiß, halbtrocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Riesling Peter Nicolay — elegant German white semi-dry wine with fruity acidity.",
+				"ua": "Riesling Peter Nicolay — елегантне німецьке біле напівсухе вино з фруктовою кислотністю.",
+				"de": "Riesling Peter Nicolay — eleganter deutscher weißer Halbtrockenwein mit fruchtiger Säure."
+			}
+		}
+	},
+	{
+		"slug": "dornfelder",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Dornfelder",
+				"ua": "Вино «Dornfelder»",
+				"de": "Wein «Dornfelder»"
+			},
+			"description": {
+				"en": "Red, sweet, 0.75L.",
+				"ua": "Червоне, солодке, 0,75л.",
+				"de": "Rot, süß, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Dornfelder — German red wine with deep colour and sweet berry character.",
+				"ua": "Dornfelder — німецьке червоне вино з глибоким кольором та солодким ягідним характером.",
+				"de": "Dornfelder — deutscher Rotwein mit tiefer Farbe und süßem Beerencharakter."
+			}
+		}
+	},
+	{
+		"slug": "aujoux-lis-blanc",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Aujoux Lis Blanc",
+				"ua": "Вино «Aujoux» Ліс Блан",
+				"de": "Wein «Aujoux» Lis Blanc"
+			},
+			"description": {
+				"en": "White, dry, 0.75L.",
+				"ua": "Біле, сухе, 0,75л.",
+				"de": "Weiß, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Aujoux Lis Blanc — French white dry wine, fresh and elegant.",
+				"ua": "Aujoux Ліс Блан — французьке біле сухе вино, свіже та елегантне.",
+				"de": "Aujoux Lis Blanc — französischer weißer Trockenwein, frisch und elegant."
+			}
+		}
+	},
+	{
+		"slug": "aujoux-lis-rouge",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Aujoux Lis Rouge",
+				"ua": "Вино «Aujoux» Ліс Руж",
+				"de": "Wein «Aujoux» Lis Rouge"
+			},
+			"description": {
+				"en": "Red, dry, 0.75L.",
+				"ua": "Червоне, сухе, 0,75л.",
+				"de": "Rot, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Aujoux Lis Rouge — French red dry wine with smooth tannins.",
+				"ua": "Aujoux Ліс Руж — французьке червоне сухе вино з м'якими танінами.",
+				"de": "Aujoux Lis Rouge — französischer roter Trockenwein mit weichen Tanninen."
+			}
+		}
+	},
+	{
+		"slug": "sancerre-michel-laurent",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Sancerre Michel Laurent",
+				"ua": "Вино «Sancerre Michel Laurent»",
+				"de": "Wein «Sancerre Michel Laurent»"
+			},
+			"description": {
+				"en": "White, dry, 0.75L.",
+				"ua": "Біле, сухе, 0,75л.",
+				"de": "Weiß, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Sancerre Michel Laurent — prestigious Loire Valley white wine, crisp and mineral.",
+				"ua": "Sancerre Michel Laurent — престижне біле вино долини Луари, свіже та мінеральне.",
+				"de": "Sancerre Michel Laurent — prestigeträchtiger Loire-Tal-Weißwein, frisch und mineralisch."
+			}
+		}
+	},
+	{
+		"slug": "margaux-lucien-lurton",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Margaux Lucien Lurton",
+				"ua": "Вино «Margaux Lucien Lurton»",
+				"de": "Wein «Margaux Lucien Lurton»"
+			},
+			"description": {
+				"en": "Red, dry, 0.75L.",
+				"ua": "Червоне, сухе, 0,75л.",
+				"de": "Rot, trocken, 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Margaux Lucien Lurton — refined Bordeaux red wine from the prestigious Margaux appellation.",
+				"ua": "Margaux Lucien Lurton — вишукане бордоське червоне вино із престижного апелясьону Марго.",
+				"de": "Margaux Lucien Lurton — raffinierter Bordeaux-Rotwein aus der prestigeträchtigen Appellation Margaux."
+			}
+		}
+	},
+	{
+		"slug": "bon-voyage-chardonnay",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Bon Voyage Chardonnay",
+				"ua": "Вино «Bon Voyage» Шардоне",
+				"de": "Wein «Bon Voyage» Chardonnay"
+			},
+			"description": {
+				"en": "White, dry, 0.5% alc., 0.75L.",
+				"ua": "Біле, сухе, 0,5% алк., 0,75л.",
+				"de": "Weiß, trocken, 0,5% Alk., 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Bon Voyage Chardonnay — non-alcoholic white wine (0.5% alc.), fresh and balanced.",
+				"ua": "Bon Voyage Шардоне — безалкогольне біле вино (0,5% алк.), свіже та збалансоване.",
+				"de": "Bon Voyage Chardonnay — alkoholfreier Weißwein (0,5% Alk.), frisch und ausgewogen."
+			}
+		}
+	},
+	{
+		"slug": "bon-voyage-cabernet",
+		"document": "item",
+		"data": {
+			"title": {
+				"en": "Bon Voyage Cabernet Sauvignon",
+				"ua": "Вино «Bon Voyage» Каберне Совіньон",
+				"de": "Wein «Bon Voyage» Cabernet Sauvignon"
+			},
+			"description": {
+				"en": "Red, dry, 0.5% alc., 0.75L.",
+				"ua": "Червоне, сухе, 0,5% алк., 0,75л.",
+				"de": "Rot, trocken, 0,5% Alk., 0,75L."
+			},
+			"labels": [
+				{
+					"en": "125g",
+					"ua": "125g",
+					"de": "125g"
+				},
+				{
+					"en": "0.75L",
+					"ua": "0.75L",
+					"de": "0.75L"
+				}
+			],
+			"fullDescription": {
+				"en": "Bon Voyage Cabernet Sauvignon — non-alcoholic red wine (0.5% alc.), rich and smooth.",
+				"ua": "Bon Voyage Каберне Совіньон — безалкогольне червоне вино (0,5% алк.), насичене та м'яке.",
+				"de": "Bon Voyage Cabernet Sauvignon — alkoholfreier Rotwein (0,5% Alk.), reich und weich."
 			}
 		}
 	}

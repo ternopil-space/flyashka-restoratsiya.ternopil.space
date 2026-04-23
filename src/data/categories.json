@@ -1,17 +1,5 @@
 [
 	{
-		"name": "Breakfasts",
-		"description": "Morning meals and light starters.",
-		"section": "food",
-		"slug": "breakfasts"
-	},
-	{
-		"name": "Coffee",
-		"description": "Hot and cold coffee drinks.",
-		"section": "drinks",
-		"slug": "coffee"
-	},
-	{
 		"name": "Cold appetizers",
 		"description": "Chilled starters to begin the meal.",
 		"section": "food",
@@ -34,5 +22,107 @@
 		"description": "Soups and broths.",
 		"section": "food",
 		"slug": "first-courses"
+	},
+	{
+		"name": "Main courses",
+		"description": "Hot main dishes.",
+		"section": "food",
+		"slug": "main-courses"
+	},
+	{
+		"name": "Side dishes",
+		"description": "Garnishes and sides.",
+		"section": "food",
+		"slug": "side-dishes"
+	},
+	{
+		"name": "Desserts",
+		"description": "Sweet desserts and pastries.",
+		"section": "food",
+		"slug": "desserts"
+	},
+	{
+		"name": "Soft drinks",
+		"description": "Non-alcoholic beverages.",
+		"section": "drinks",
+		"slug": "soft-drinks"
+	},
+	{
+		"name": "Hot drinks",
+		"description": "Hot beverages including coffee and tea.",
+		"section": "drinks",
+		"slug": "hot-drinks"
+	},
+	{
+		"name": "Coffee",
+		"description": "Hot and cold coffee drinks.",
+		"section": "drinks",
+		"slug": "coffee"
+	},
+	{
+		"name": "Cognac & Brandy",
+		"description": "Cognac and brandy selection.",
+		"section": "drinks",
+		"slug": "cognac"
+	},
+	{
+		"name": "Sparkling wines",
+		"description": "Champagne and sparkling wines.",
+		"section": "drinks",
+		"slug": "sparkling-wines"
+	},
+	{
+		"name": "Ukrainian wines",
+		"description": "Wines from Ukraine.",
+		"section": "drinks",
+		"slug": "wines-ukraine"
+	},
+	{
+		"name": "Georgian wines",
+		"description": "Wines from Georgia.",
+		"section": "drinks",
+		"slug": "wines-georgia"
+	},
+	{
+		"name": "American wines",
+		"description": "Wines from the USA.",
+		"section": "drinks",
+		"slug": "wines-usa"
+	},
+	{
+		"name": "Italian wines",
+		"description": "Wines from Italy.",
+		"section": "drinks",
+		"slug": "wines-italy"
+	},
+	{
+		"name": "Australian wines",
+		"description": "Wines from Australia.",
+		"section": "drinks",
+		"slug": "wines-australia"
+	},
+	{
+		"name": "Spanish wines",
+		"description": "Wines from Spain.",
+		"section": "drinks",
+		"slug": "wines-spain"
+	},
+	{
+		"name": "German wines",
+		"description": "Wines from Germany.",
+		"section": "drinks",
+		"slug": "wines-germany"
+	},
+	{
+		"name": "French wines",
+		"description": "Wines from France.",
+		"section": "drinks",
+		"slug": "wines-france"
+	},
+	{
+		"name": "Non-alcoholic wines",
+		"description": "Wines with 0.5% alcohol content.",
+		"section": "drinks",
+		"slug": "wines-non-alcoholic"
 	}
 ]
